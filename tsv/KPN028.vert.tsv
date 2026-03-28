@@ -14,7 +14,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 8-0	PKP112	8	°boh°	boh	linguistic	none	Volume=Low	Begin=10.169|End=10.519	_	_	_	_
 9-0	PKP112	9	è	è	linguistic	none	_	Begin=13.289	_	_	_	_
 9-1	PKP112	9	molto	molto	linguistic	none	_	_	_	_	_	_
-9-2	PKP112	9	grossa,	grossa	linguistic	none	Intonation=weakly_rising	End=14.329	_	_	_	_
+9-2	PKP112	9	grossa,	grossa	linguistic	none	Intonation=WeaklyRising	End=14.329	_	_	_	_
 10-0	PKP119	10	bella	bella	linguistic	none	_	Begin=14.534|End=15.415	_	_	_	_
 11-0	PKP118	11	[è	è	linguistic	none	_	Begin=15.95	_	_	_	0-1(1)
 11-1	PKP118	11	cot:]ta	cotta	linguistic	none	_	End=16.8	2x1	_	_	0-3(1)
@@ -30,11 +30,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 17-0	PKP119	17	°hai	hai	linguistic	none	Volume=Low	Begin=21.159	_	_	_	_
 17-1	PKP119	17	detto°	detto	linguistic	none	Volume=Low	_	_	_	_	_
 17-2	PKP119	17	in	in	linguistic	none	_	_	_	_	_	_
-17-3	PKP119	17	dialetto,	dialetto	linguistic	none	Intonation=weakly_rising	End=22.909	_	_	_	_
+17-3	PKP119	17	dialetto,	dialetto	linguistic	none	Intonation=WeaklyRising	End=22.909	_	_	_	_
 18-0	PKP112	18	la	la	linguistic	none	_	Begin=27.949	_	_	_	_
 18-1	PKP112	18	nonna	nonna	linguistic	none	_	_	_	_	_	_
 18-2	PKP112	18	come	come	linguistic	none	_	_	_	_	_	_
-18-3	PKP112	18	sta,	sta	linguistic	none	Intonation=weakly_rising	End=29.169	_	_	_	_
+18-3	PKP112	18	sta,	sta	linguistic	none	Intonation=WeaklyRising	End=29.169	_	_	_	_
 19-0	PKP118	19	mi	mi	linguistic	none	_	Begin=30.059	_	_	_	_
 19-1	PKP118	19	sa	sa	linguistic	none	_	_	_	_	_	_
 19-2	PKP118	19	bene	bene	linguistic	none	_	End=31.009	_	_	_	_
@@ -127,7 +127,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 30-7	PKP118	30	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 30-8	PKP118	30	dare	dare	linguistic	none	_	_	_	_	_	_
 30-9	PKP118	30	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-30-10	PKP118	30	intonaco,	intonaco	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+30-10	PKP118	30	intonaco,	intonaco	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 30-11	PKP118	30	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 30-12	PKP118	30	e	e	linguistic	none	_	_	_	_	_	_
 30-13	PKP118	30	[poi	poi	linguistic	none	_	_	_	_	_	0-3(2)
@@ -187,7 +187,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 43-3	PKP112	43	avena	avena	linguistic	none	_	End=88.773	_	_	_	_
 44-0	PKP118	44	[l'	l'	linguistic	none	SpaceAfter=No	Begin=88.608	_	_	_	0-2(6)
 44-1	PKP118	44	av]ena.	avena	linguistic	none	Intonation=Falling	End=89.195	_	_	_	0-2(6)
-45-0	PKP118	45	proviamo,	proviamo	linguistic	none	Intonation=weakly_rising	Begin=91.599|End=92.129	_	_	_	_
+45-0	PKP118	45	proviamo,	proviamo	linguistic	none	Intonation=WeaklyRising	Begin=91.599|End=92.129	_	_	_	_
 46-0	PKP118	46	non	non	linguistic	none	_	Begin=93.309	_	_	_	_
 46-1	PKP118	46	mi	mi	linguistic	none	_	_	_	_	_	_
 46-2	PKP118	46	ispira	ispira	linguistic	none	_	_	_	_	_	_
@@ -283,7 +283,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 68-1	PKP119	68	sentito	sentito	linguistic	none	_	_	_	_	_	_
 68-2	PKP119	68	la	la	linguistic	none	_	_	_	_	_	_
 68-3	PKP119	68	nonna?	nonna	linguistic	none	Intonation=Rising	End=141.15	_	_	_	_
-69-0	PKP118	69	gino,	gino	linguistic	none	Intonation=weakly_rising	Begin=141.613|End=141.892	_	_	_	_
+69-0	PKP118	69	gino,	gino	linguistic	none	Intonation=WeaklyRising	Begin=141.613|End=141.892	_	_	_	_
 70-0	PKP119	70	eh	eh	linguistic	none	_	Begin=142.0|End=142.36	_	_	_	_
 71-0	PKP118	71	non	non	linguistic	none	_	Begin=142.36	_	_	_	_
 71-1	PKP118	71	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -366,7 +366,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 79-18	PKP119	79	bene	bene	linguistic	none	_	_	_	_	_	_
 79-19	PKP119	79	con	con	linguistic	none	_	_	_	_	_	_
 79-20	PKP119	79	la	la	linguistic	none	_	_	_	_	_	_
-79-21	PKP119	79	nonna,	nonna	linguistic	none	Intonation=weakly_rising	End=173.353	_	_	_	_
+79-21	PKP119	79	nonna,	nonna	linguistic	none	Intonation=WeaklyRising	End=173.353	_	_	_	_
 80-0	PKP118	80	ancora?	ancora	linguistic	none	Intonation=Rising	Begin=173.353|End=173.986	_	_	_	_
 81-0	PKP112	81	((ride))	((ride))	nonverbalbehavior	none	_	Begin=174.113|End=174.842	_	_	_	_
 82-0	PKP119	82	e	e	linguistic	none	_	Begin=175.09	_	_	_	_
@@ -541,7 +541,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 113-0	PKP112	113	okay	okay	linguistic	none	_	Begin=235.51	_	_	_	_
 113-1	PKP112	113	ma	ma	linguistic	none	_	_	_	_	_	_
 113-2	PKP112	113	a	a	linguistic	none	_	_	_	_	_	_
-113-3	PKP112	113	voce,	voce	linguistic	none	Intonation=weakly_rising	End=236.33	_	_	_	_
+113-3	PKP112	113	voce,	voce	linguistic	none	Intonation=WeaklyRising	End=236.33	_	_	_	_
 114-0	PKP119	114	[eh]	eh	linguistic	none	_	Begin=236.956|End=237.094	_	_	_	0-2(21)
 115-0	PKP118	115	[no]	no	linguistic	none	_	Begin=236.958	_	_	_	0-2(21)
 115-1	PKP118	115	non	non	linguistic	none	_	_	_	_	_	_
@@ -649,7 +649,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 133-1	PKP119	133	e	e	linguistic	none	_	_	_	_	_	_
 133-2	PKP119	133	provvede	provvede	linguistic	none	_	_	_	_	_	_
 133-3	PKP119	133	sarà	sarà	linguistic	none	_	End=274.36	_	_	_	_
-134-0	PKP118	134	[boh],	boh	linguistic	none	Intonation=weakly_rising	Begin=273.06|End=273.51	_	_	_	0-3(27)
+134-0	PKP118	134	[boh],	boh	linguistic	none	Intonation=WeaklyRising	Begin=273.06|End=273.51	_	_	_	0-3(27)
 135-0	PKP119	135	ha	ha	linguistic	none	_	Begin=277.34	_	_	_	_
 135-1	PKP119	135	paura	paura	linguistic	none	_	_	_	_	_	_
 135-2	PKP119	135	di	di	linguistic	none	_	_	_	_	_	_
@@ -790,7 +790,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 163-17	PKP119	163	piatto	piatto	linguistic	none	_	_	_	_	_	_
 163-18	PKP119	163	così	così	linguistic	none	_	_	_	_	_	_
 163-19	PKP119	163	di	di	linguistic	none	_	_	_	_	_	_
-163-20	PKP119	163	pasta,	pasta	linguistic	none	Intonation=weakly_rising	End=333.293	_	_	_	_
+163-20	PKP119	163	pasta,	pasta	linguistic	none	Intonation=WeaklyRising	End=333.293	_	_	_	_
 164-0	PKP119	164	e	e	linguistic	none	_	Begin=334.19	_	_	_	_
 164-1	PKP119	164	gli	gli	linguistic	none	_	_	_	_	_	_
 164-2	PKP119	164	lava	lava	linguistic	none	_	_	_	_	_	_
@@ -845,7 +845,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 172-0	PKP112	172	te	te	linguistic	none	_	Begin=357.54	_	_	_	_
 172-1	PKP112	172	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 172-2	PKP112	172	ho	ho	linguistic	none	_	_	_	_	_	_
-172-3	PKP112	172	detto,	detto	linguistic	none	Intonation=weakly_rising	End=358.45	_	_	_	_
+172-3	PKP112	172	detto,	detto	linguistic	none	Intonation=WeaklyRising	End=358.45	_	_	_	_
 173-0	PKP118	173	mh	mh	linguistic	none	_	Begin=358.575|End=359.305	_	_	_	_
 174-0	PKP112	174	eh	eh	linguistic	none	_	Begin=359.66	_	_	_	_
 174-1	PKP112	174	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -1000,7 +1000,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 209-0	PKP118	209	se	se	linguistic	none	_	Begin=446.08	_	_	_	_
 209-1	PKP118	209	è	è	linguistic	none	_	_	_	_	_	_
 209-2	PKP118	209	ancora	ancora	linguistic	none	_	_	_	_	_	_
-209-3	PKP118	209	buono,	buono	linguistic	none	Intonation=weakly_rising	End=446.82	_	_	_	_
+209-3	PKP118	209	buono,	buono	linguistic	none	Intonation=WeaklyRising	End=446.82	_	_	_	_
 210-0	PKP112	210	CAROLINA:	carolina	linguistic	none	Volume=High	Begin=447.02	7x1	_	_	_
 210-1	PKP112	210	ha	ha	linguistic	none	_	_	_	_	_	_
 210-2	PKP112	210	scritto	scritto	linguistic	none	_	_	_	_	_	_
@@ -1009,7 +1009,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 210-5	PKP112	210	gli	gli	linguistic	none	_	_	_	_	_	_
 210-6	PKP112	210	ha	ha	linguistic	none	_	_	_	_	_	_
 210-7	PKP112	210	detto	detto	linguistic	none	_	_	_	_	_	_
-210-8	PKP112	210	ah,	ah	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+210-8	PKP112	210	ah,	ah	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 210-9	PKP112	210	[ho	ho	linguistic	none	_	_	_	_	_	0-2(39)
 210-10	PKP112	210	visto:]	visto	linguistic	none	_	End=451.565	4x1	_	_	0-5(39)
 211-0	PKP119	211	[ti	ti	linguistic	none	_	Begin=450.367	_	_	_	0-2(39)
@@ -1066,7 +1066,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 221-11	PKP112	221	sono:	sono	linguistic	none	_	_	3x1	_	_	_
 221-12	PKP112	221	sono	sono	linguistic	none	_	_	_	_	_	_
 221-13	PKP112	221	superconomici	superconomici	linguistic	none	_	End=468.94	_	_	_	_
-222-0	PKP118	222	ah,	ah	linguistic	none	Intonation=weakly_rising	Begin=468.97|End=469.34	_	_	_	_
+222-0	PKP118	222	ah,	ah	linguistic	none	Intonation=WeaklyRising	Begin=468.97|End=469.34	_	_	_	_
 223-0	PKP112	223	e	e	linguistic	none	_	Begin=469.62	_	_	_	_
 223-1	PKP112	223	quindi	quindi	linguistic	none	_	_	_	_	_	_
 223-2	PKP112	223	ha	ha	linguistic	none	_	_	_	_	_	_
@@ -1089,7 +1089,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 225-9	PKP112	225	per	per	linguistic	none	_	_	_	_	_	_
 225-10	PKP112	225	la	la	linguistic	none	_	_	_	_	_	_
 225-11	PKP112	225	mia	mia	linguistic	none	_	_	_	_	_	_
-225-12	PKP112	225	LAUREA,	laurea	linguistic	none	Intonation=weakly_rising|Volume=High	_	_	_	_	_
+225-12	PKP112	225	LAUREA,	laurea	linguistic	none	Intonation=WeaklyRising|Volume=High	_	_	_	_	_
 225-13	PKP112	225	a	a	linguistic	none	_	_	_	_	_	_
 225-14	PKP112	225	fine	fine	linguistic	none	_	_	_	_	_	_
 225-15	PKP112	225	ottobre	ottobre	linguistic	none	_	End=475.98	_	_	_	_
@@ -1209,7 +1209,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 252-6	PKP112	252	compleanno	compleanno	linguistic	none	_	_	_	_	_	_
 252-7	PKP112	252	di	di	linguistic	none	_	_	_	_	_	_
 252-8	PKP112	252	carolina	carolina	linguistic	none	_	_	_	_	_	_
-252-9	PKP112	252	no,	no	linguistic	none	Intonation=weakly_rising	End=518.71	_	_	_	_
+252-9	PKP112	252	no,	no	linguistic	none	Intonation=WeaklyRising	End=518.71	_	_	_	_
 253-0	PKP118	253	mh	mh	linguistic	none	_	Begin=518.863|End=519.201	_	_	_	_
 254-0	PKP118	254	ottobre?	ottobre	linguistic	none	Intonation=Rising	Begin=519.49|End=520.49	_	_	_	_
 255-0	PKP112	255	<settembre>	settembre	linguistic	none	_	Begin=520.494|End=521.316	_	Slow=0-9	_	_
@@ -1225,7 +1225,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 259-3	PKP112	259	deve	deve	linguistic	none	_	_	_	_	_	_
 259-4	PKP112	259	venire	venire	linguistic	none	_	_	_	_	_	_
 259-5	PKP112	259	A	a	linguistic	none	Volume=High	_	_	_	_	_
-259-6	PKP112	259	BOLOGNA,	bologna	linguistic	none	Intonation=weakly_rising|Volume=High	End=526.69	_	_	_	_
+259-6	PKP112	259	BOLOGNA,	bologna	linguistic	none	Intonation=WeaklyRising|Volume=High	End=526.69	_	_	_	_
 260-0	PKP118	260	°m:h°	mh	linguistic	none	Volume=Low	Begin=526.86|End=527.3	0x1	_	_	_
 261-0	PKP112	261	le~	le~	linguistic	none	Interrupted=Yes	Begin=528.05	_	_	_	_
 261-1	PKP112	261	e	e	linguistic	none	_	_	_	_	_	_
@@ -1252,13 +1252,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 264-3	PKP112	264	università	università	linguistic	none	_	_	_	_	_	_
 264-4	PKP112	264	di	di	linguistic	none	_	_	_	_	_	_
 264-5	PKP112	264	bologna	bologna	linguistic	none	_	End=537.675	_	_	_	_
-265-0	PKP118	265	>ah<,	ah	linguistic	none	Intonation=weakly_rising	Begin=537.675|End=538.08	_	Fast=0-2	_	_
+265-0	PKP118	265	>ah<,	ah	linguistic	none	Intonation=WeaklyRising	Begin=537.675|End=538.08	_	Fast=0-2	_	_
 266-0	PKP112	266	e	e	linguistic	none	_	Begin=538.179	_	_	_	_
 266-1	PKP112	266	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 266-2	PKP112	266	agendina	agendina	linguistic	none	_	_	_	_	_	_
 266-3	PKP112	266	dell'	dell'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 266-4	PKP112	266	unibo	unibo	linguistic	none	_	End=539.706	_	_	_	_
-267-0	PKP118	267	bello,	bello	linguistic	none	Intonation=weakly_rising	Begin=539.88|End=540.45	_	_	_	_
+267-0	PKP118	267	bello,	bello	linguistic	none	Intonation=WeaklyRising	Begin=539.88|End=540.45	_	_	_	_
 268-0	PKP112	268	e	e	linguistic	none	_	Begin=540.46	_	_	_	_
 268-1	PKP112	268	DEN:TRO	dentro	linguistic	none	Volume=High	_	2x1	_	_	_
 268-2	PKP112	268	ha	ha	linguistic	none	_	_	_	_	_	_
@@ -1288,7 +1288,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 269-1	PKP112	269	poi	poi	linguistic	none	_	_	_	_	_	_
 269-2	PKP112	269	glielo	glielo	linguistic	none	_	_	_	_	_	_
 269-3	PKP112	269	spediamo.	spediamo	linguistic	none	Intonation=Falling	End=548.66	_	_	_	_
-270-0	PKP118	270	BELLINO,	bellino	linguistic	none	Intonation=weakly_rising|Volume=High	Begin=548.86|End=549.52	_	_	_	_
+270-0	PKP118	270	BELLINO,	bellino	linguistic	none	Intonation=WeaklyRising|Volume=High	Begin=548.86|End=549.52	_	_	_	_
 271-0	PKP112	271	°mh°	mh	linguistic	none	Volume=Low	Begin=549.66|End=549.89	_	_	_	_
 272-0	PKP118	272	ma	ma	linguistic	none	_	Begin=550.035	_	_	_	_
 272-1	PKP118	272	n~	n~	linguistic	none	Interrupted=Yes	_	_	_	_	_
@@ -1306,7 +1306,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 273-1	PKP112	273	è	è	linguistic	none	_	_	_	_	_	_
 273-2	PKP112	273	per	per	linguistic	none	_	_	_	_	_	_
 273-3	PKP112	273	il	il	linguistic	none	_	_	_	_	_	_
-273-4	PKP112	273	compleanno,	compleanno	linguistic	none	Intonation=weakly_rising	End=554.195	_	_	_	_
+273-4	PKP112	273	compleanno,	compleanno	linguistic	none	Intonation=WeaklyRising	End=554.195	_	_	_	_
 274-0	PKP118	274	bellino	bellino	linguistic	none	_	Begin=554.667|End=555.087	_	_	_	_
 275-0	PKP112	275	mhmh	mhmh	linguistic	none	_	Begin=555.804|End=556.593	_	_	_	_
 276-0	PKP119	276	che	che	linguistic	none	_	Begin=558.038	_	_	_	_
@@ -1352,7 +1352,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 280-7	PKP118	280	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 280-8	PKP118	280	aveva	aveva	linguistic	none	_	_	_	_	_	_
 280-9	PKP118	280	vista.	vista	linguistic	none	Intonation=Falling	End=573.34	_	_	_	_
-281-0	PKP112	281	eh,	eh	linguistic	none	Intonation=weakly_rising	Begin=573.384|End=573.72	_	_	_	_
+281-0	PKP112	281	eh,	eh	linguistic	none	Intonation=WeaklyRising	Begin=573.384|End=573.72	_	_	_	_
 282-0	PKP119	282	eh	eh	linguistic	none	_	Begin=574.44	_	_	_	_
 282-1	PKP119	282	che	che	linguistic	none	_	_	_	_	_	_
 282-2	PKP119	282	è	è	linguistic	none	_	_	_	_	_	_
@@ -1545,7 +1545,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 315-8	PKP119	315	tutta	tutta	linguistic	none	_	_	_	_	_	_
 315-9	PKP119	315	via:	via	linguistic	none	_	_	2x1	_	_	_
 315-10	PKP119	315	via	via	linguistic	none	_	_	_	_	_	_
-315-11	PKP119	315	saragozza,	saragozza	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+315-11	PKP119	315	saragozza,	saragozza	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 315-12	PKP119	315	[fi]no	fino	linguistic	none	_	_	_	_	_	0-2(55)
 315-13	PKP119	315	alla	alla	linguistic	none	_	_	_	_	_	_
 315-14	PKP119	315	porta	porta	linguistic	none	_	_	_	_	_	_
@@ -1559,7 +1559,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 315-22	PKP119	315	a	a	linguistic	none	_	_	_	_	_	_
 315-23	PKP119	315	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 315-24	PKP119	315	lo	lo	linguistic	none	_	_	_	_	_	_
-315-25	PKP119	315	stadio,	stadio	linguistic	none	Intonation=weakly_rising	End=647.71	_	_	_	_
+315-25	PKP119	315	stadio,	stadio	linguistic	none	Intonation=WeaklyRising	End=647.71	_	_	_	_
 316-0	PKP112	316	[mh]	mh	linguistic	none	_	Begin=642.851|End=643.095	_	_	_	0-2(55)
 317-0	PKP112	317	mhmh	mhmh	linguistic	none	_	Begin=647.832|End=648.26	_	_	_	_
 318-0	PKP119	318	TUTTA	tutta	linguistic	none	Volume=High	Begin=648.31	_	_	_	_
@@ -1596,7 +1596,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 321-1	PKP119	321	arrivate	arrivate	linguistic	none	_	_	_	_	_	_
 321-2	PKP119	321	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 321-3	PKP119	321	alle	alle	linguistic	none	_	_	_	_	_	_
-321-4	PKP119	321	orfanelle,	orfanelle	linguistic	none	Intonation=weakly_rising	End=660.54	_	_	_	_
+321-4	PKP119	321	orfanelle,	orfanelle	linguistic	none	Intonation=WeaklyRising	End=660.54	_	_	_	_
 322-0	PKP119	322	alla:::	alla	linguistic	none	_	Begin=661.31	3x3	_	_	_
 322-1	PKP119	322	là	là	linguistic	none	_	_	_	_	_	_
 322-2	PKP119	322	lì	lì	linguistic	none	_	_	_	_	_	_
@@ -1662,7 +1662,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 330-7	PKP119	330	fare	fare	linguistic	none	_	_	_	_	_	_
 330-8	PKP119	330	delle	delle	linguistic	none	_	_	_	_	_	_
 330-9	PKP119	330	gran	gran	linguistic	none	_	_	_	_	_	_
-330-10	PKP119	330	SCALE,	scale	linguistic	none	Intonation=weakly_rising|Volume=High	End=678.722	_	_	_	_
+330-10	PKP119	330	SCALE,	scale	linguistic	none	Intonation=WeaklyRising|Volume=High	End=678.722	_	_	_	_
 331-0	PKP112	331	vabbè	vabbè	linguistic	none	_	Begin=679.26	_	_	_	_
 331-1	PKP112	331	però	però	linguistic	none	_	_	_	_	_	_
 331-2	PKP112	331	se	se	linguistic	none	_	_	_	_	_	_
@@ -1787,7 +1787,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 351-3	PKP119	351	fatta	fatta	linguistic	none	_	_	_	_	_	_
 351-4	PKP119	351	una	una	linguistic	none	_	_	_	_	_	_
 351-5	PKP119	351	volta	volta	linguistic	none	_	_	_	_	_	_
-351-6	PKP119	351	eh,	eh	linguistic	none	Intonation=weakly_rising	End=722.765	_	_	_	_
+351-6	PKP119	351	eh,	eh	linguistic	none	Intonation=WeaklyRising	End=722.765	_	_	_	_
 352-0	PKP118	352	mh	mh	linguistic	none	_	Begin=722.826|End=723.201	_	_	_	_
 353-0	PKP119	353	però:	però	linguistic	none	_	Begin=724.55|End=724.91	3x1	_	_	_
 354-0	PKP118	354	lunga	lunga	linguistic	none	_	Begin=725.06|End=725.44	_	_	_	_
@@ -1921,7 +1921,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 377-1	PKP119	377	penso	penso	linguistic	none	_	_	_	_	_	_
 377-2	PKP119	377	di	di	linguistic	none	_	_	_	_	_	_
 377-3	PKP119	377	sì	sì	linguistic	none	_	_	_	_	_	_
-377-4	PKP119	377	(ovviamente),	ovviamente	linguistic	none	Intonation=weakly_rising	End=766.42	_	_	0-10(0)	_
+377-4	PKP119	377	(ovviamente),	ovviamente	linguistic	none	Intonation=WeaklyRising	End=766.42	_	_	0-10(0)	_
 378-0	PKP119	378	le	le	linguistic	none	_	Begin=766.49	_	_	_	_
 378-1	PKP119	378	navette	navette	linguistic	none	_	_	_	_	_	_
 378-2	PKP119	378	ci	ci	linguistic	none	_	_	_	_	_	_
@@ -1931,7 +1931,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 380-1	PKP119	380	a	a	linguistic	none	_	_	_	_	_	_
 380-2	PKP119	380	scendere	scendere	linguistic	none	_	_	_	_	_	_
 380-3	PKP119	380	LA	la	linguistic	none	Volume=High	_	_	_	_	_
-380-4	PKP119	380	FAI,	fai	linguistic	none	Intonation=weakly_rising|Volume=High	End=770.78	_	_	_	_
+380-4	PKP119	380	FAI,	fai	linguistic	none	Intonation=WeaklyRising|Volume=High	End=770.78	_	_	_	_
 381-0	PKP119	381	arrivi	arrivi	linguistic	none	_	Begin=771.586	_	_	_	_
 381-1	PKP119	381	allo	allo	linguistic	none	_	_	_	_	_	_
 381-2	PKP119	381	sta:dio	stadio	linguistic	none	_	_	2x1	_	_	_
@@ -2096,8 +2096,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 410-0	PKP112	410	ma	ma	linguistic	none	_	Begin=834.67	_	_	_	_
 410-1	PKP112	410	che	che	linguistic	none	_	_	_	_	_	_
 410-2	PKP112	410	nuova	nuova	linguistic	none	_	End=835.631	_	_	_	_
-411-0	PKP119	411	<chiesa>,	chiesa	linguistic	none	Intonation=weakly_rising	Begin=840.393|End=841.124	_	Slow=0-6	_	_
-412-0	PKP119	412	<rocchetta>,	rocchetta	linguistic	none	Intonation=weakly_rising	Begin=842.441|End=843.564	_	Slow=0-9	_	_
+411-0	PKP119	411	<chiesa>,	chiesa	linguistic	none	Intonation=WeaklyRising	Begin=840.393|End=841.124	_	Slow=0-6	_	_
+412-0	PKP119	412	<rocchetta>,	rocchetta	linguistic	none	Intonation=WeaklyRising	Begin=842.441|End=843.564	_	Slow=0-9	_	_
 413-0	PKP112	413	ah	ah	linguistic	none	_	Begin=845.334	_	_	_	_
 413-1	PKP112	413	le	le	linguistic	none	_	_	_	_	_	_
 413-2	PKP112	413	spine	spine	linguistic	none	_	End=846.27	_	_	_	_
@@ -2194,7 +2194,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 433-0	PKP119	433	è	è	linguistic	none	_	Begin=881.71	_	_	_	_
 433-1	PKP119	433	in	in	linguistic	none	_	_	_	_	_	_
 433-2	PKP119	433	stile	stile	linguistic	none	_	_	_	_	_	_
-433-3	PKP119	433	arabo,	arabo	linguistic	none	Intonation=weakly_rising	End=882.54	_	_	_	_
+433-3	PKP119	433	arabo,	arabo	linguistic	none	Intonation=WeaklyRising	End=882.54	_	_	_	_
 434-0	PKP119	434	>guarda<	guarda	linguistic	none	_	Begin=884.037|End=884.444	_	Fast=0-6	_	_
 435-0	PKP118	435	ma	ma	linguistic	none	_	Begin=885.46	_	_	_	_
 435-1	PKP118	435	è	è	linguistic	none	_	_	_	_	_	_
@@ -2223,7 +2223,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 440-3	PKP112	440	però]	però	linguistic	none	_	End=892.73	_	_	_	0-4(171)
 441-0	PKP119	441	[di	di	linguistic	none	_	Begin=891.543	_	_	_	0-2(171)
 441-1	PKP119	441	un	un	linguistic	none	_	_	_	_	_	0-2(171)
-441-2	PKP119	441	sultano],	sultano	linguistic	none	Intonation=weakly_rising	End=892.857	_	_	_	0-7(171)
+441-2	PKP119	441	sultano],	sultano	linguistic	none	Intonation=WeaklyRising	End=892.857	_	_	_	0-7(171)
 442-0	PKP119	442	guarda	guarda	linguistic	none	_	Begin=892.94	_	_	_	_
 442-1	PKP119	442	è	è	linguistic	none	_	_	_	_	_	_
 442-2	PKP119	442	tutto	tutto	linguistic	none	_	_	_	_	_	_
@@ -2265,7 +2265,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 450-0	PKP112	450	ma	ma	linguistic	none	_	Begin=911.616	_	_	_	_
 450-1	PKP112	450	che	che	linguistic	none	_	_	_	_	_	_
 450-2	PKP112	450	cos'	cos'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-450-3	PKP112	450	è,	è	linguistic	none	Intonation=weakly_rising	End=912.451	_	_	_	_
+450-3	PKP112	450	è,	è	linguistic	none	Intonation=WeaklyRising	End=912.451	_	_	_	_
 451-0	PKP119	451	guarda	guarda	linguistic	none	_	Begin=912.762	_	_	_	_
 451-1	PKP119	451	se	se	linguistic	none	_	_	_	_	_	_
 451-2	PKP119	451	non	non	linguistic	none	_	_	_	_	_	_
@@ -2303,7 +2303,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 460-1	PKP112	460	storia	storia	linguistic	none	_	End=924.219	_	_	_	_
 461-0	PKP112	461	guarda	guarda	linguistic	none	_	Begin=934.73|End=935.31	_	_	_	_
 462-0	PKP118	462	dov'	dov'	linguistic	none	SpaceAfter=No	Begin=935.97	_	_	_	_
-462-1	PKP118	462	è,	è	linguistic	none	Intonation=weakly_rising	End=936.48	_	_	_	_
+462-1	PKP118	462	è,	è	linguistic	none	Intonation=WeaklyRising	End=936.48	_	_	_	_
 463-0	PKP118	463	è	è	linguistic	none	_	Begin=937.04	_	_	_	_
 463-1	PKP118	463	venuto	venuto	linguistic	none	_	_	_	_	_	_
 463-2	PKP118	463	fuori?	fuori	linguistic	none	Intonation=Rising	End=938.05	_	_	_	_
@@ -2318,7 +2318,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 466-2	PKP112	466	se	se	linguistic	none	_	_	_	_	_	_
 466-3	PKP112	466	cerchi	cerchi	linguistic	none	_	_	_	_	_	_
 466-4	PKP112	466	su	su	linguistic	none	_	_	_	_	_	_
-466-5	PKP112	466	wikipedia:,	wikipedia	linguistic	none	Intonation=weakly_rising	End=949.49	8x1	_	_	_
+466-5	PKP112	466	wikipedia:,	wikipedia	linguistic	none	Intonation=WeaklyRising	End=949.49	8x1	_	_	_
 467-0	PKP119	467	ottantacinque	ottantacinque	linguistic	none	_	Begin=955.63	_	_	_	_
 467-1	PKP119	467	chilometri	chilometri	linguistic	none	_	_	_	_	_	_
 467-2	PKP119	467	da	da	linguistic	none	_	_	_	_	_	_
@@ -2390,7 +2390,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 485-2	PKP119	485	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 485-3	PKP119	485	sì	sì	linguistic	none	_	End=984.92	_	_	_	_
 486-0	PKP119	486	per	per	linguistic	none	_	Begin=985.654	_	_	_	_
-486-1	PKP119	486	carità,	carità	linguistic	none	Intonation=weakly_rising	End=986.391	_	_	_	_
+486-1	PKP119	486	carità,	carità	linguistic	none	Intonation=WeaklyRising	End=986.391	_	_	_	_
 487-0	PKP118	487	PRENDERESTI	prenderesti	linguistic	none	Volume=High	Begin=996.607	_	_	_	_
 487-1	PKP118	487	la	la	linguistic	none	_	_	_	_	_	_
 487-2	PKP118	487	frutta	frutta	linguistic	none	_	_	_	_	_	_
@@ -2420,7 +2420,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 492-0	PKP118	492	non	non	linguistic	none	_	Begin=1012.322	_	_	_	_
 492-1	PKP118	492	erano	erano	linguistic	none	_	_	_	_	_	_
 492-2	PKP118	492	ancora	ancora	linguistic	none	_	_	_	_	_	_
-492-3	PKP118	492	arrivati,	arrivati	linguistic	none	Intonation=weakly_rising	End=1013.706	_	_	_	_
+492-3	PKP118	492	arrivati,	arrivati	linguistic	none	Intonation=WeaklyRising	End=1013.706	_	_	_	_
 493-0	PKP119	493	°eh	eh	linguistic	none	Volume=Low	Begin=1014.01	_	_	_	_
 493-1	PKP119	493	vabbè	vabbè	linguistic	none	Volume=Low	_	_	_	_	_
 493-2	PKP119	493	sto	sto	linguistic	none	Volume=Low	_	_	_	_	_
@@ -2443,7 +2443,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 499-0	PKP119	499	TE	te	linguistic	none	Volume=High	Begin=1027.848	_	_	_	_
 499-1	PKP119	499	PENSA	pensa	linguistic	none	Volume=High	_	_	_	_	_
 499-2	PKP119	499	dov'	dov'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-499-3	PKP119	499	è,	è	linguistic	none	Intonation=weakly_rising	End=1028.92	_	_	_	_
+499-3	PKP119	499	è,	è	linguistic	none	Intonation=WeaklyRising	End=1028.92	_	_	_	_
 500-0	PKP118	500	dov'	dov'	linguistic	none	SpaceAfter=No	Begin=1029.097	_	_	_	_
 500-1	PKP118	500	[è]?	è	linguistic	none	Intonation=Rising	End=1029.435	_	_	_	0-1(94)
 501-0	PKP119	501	[ma]	ma	linguistic	none	_	Begin=1029.327	_	_	_	0-2(94)
@@ -2517,7 +2517,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 514-2	PKP118	514	raggiunge	raggiunge	linguistic	none	_	_	_	_	0-9(0)	0-9(172)
 514-3	PKP118	514	con	con	linguistic	none	_	_	_	_	0-3(0)	0-3(172)
 514-4	PKP118	514	la	la	linguistic	none	_	_	_	_	0-2(0)	0-2(172)
-514-5	PKP118	514	macchina,)]	macchina	linguistic	none	Intonation=weakly_rising	End=1052.41	_	_	0-8(0)	0-8(172)
+514-5	PKP118	514	macchina,)]	macchina	linguistic	none	Intonation=WeaklyRising	End=1052.41	_	_	0-8(0)	0-8(172)
 515-0	PKP112	515	[(ma	ma	linguistic	none	_	Begin=1051.039	_	_	0-2(0)	0-2(172)
 515-1	PKP112	515	allora	allora	linguistic	none	_	_	_	_	0-6(0)	0-6(172)
 515-2	PKP112	515	si	si	linguistic	none	_	_	_	_	0-2(0)	0-2(172)
@@ -2531,7 +2531,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 516-5	PKP119	516	dice	dice	linguistic	none	_	_	_	_	_	_
 516-6	PKP119	516	xxx	x	unknown	none	_	_	_	_	_	_
 516-7	PKP119	516	stai	stai	linguistic	none	_	_	_	_	_	_
-516-8	PKP119	516	[lì],	lì	linguistic	none	Intonation=weakly_rising	End=1054.81	_	_	_	0-2(?)
+516-8	PKP119	516	[lì],	lì	linguistic	none	Intonation=WeaklyRising	End=1054.81	_	_	_	0-2(?)
 517-0	PKP118	517	MA	ma	linguistic	none	Volume=High	Begin=1054.83	_	_	_	_
 517-1	PKP118	517	[ma]	ma	linguistic	none	_	_	_	_	_	0-2(?)
 517-2	PKP118	517	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -2561,7 +2561,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 519-1	PKP119	519	SECONDO	secondo	linguistic	none	Volume=High	_	_	_	_	0-7(100)
 519-2	PKP119	519	ME:]	me	linguistic	none	Volume=High	End=1057.492	1x1	_	_	0-2(100)
 520-0	PKP112	520	[no]	no	linguistic	none	_	Begin=1057.87	_	_	_	0-2(97)
-520-1	PKP112	520	boh,	boh	linguistic	none	Intonation=weakly_rising	End=1058.259	_	_	_	_
+520-1	PKP112	520	boh,	boh	linguistic	none	Intonation=WeaklyRising	End=1058.259	_	_	_	_
 521-0	PKP112	521	così	così	linguistic	none	_	Begin=1058.375|End=1058.956	_	_	_	_
 522-0	PKP112	522	no	no	linguistic	none	_	Begin=1059.035	_	_	_	_
 522-1	PKP112	522	[DICO	dico	linguistic	none	Volume=High	_	_	_	_	0-4(101)
@@ -2613,7 +2613,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 530-4	PKP112	530	mosch~<	mosch~	linguistic	none	Interrupted=Yes	_	_	Fast=0-6	_	_
 530-5	PKP112	530	cerca	cerca	linguistic	none	_	_	_	_	_	_
 530-6	PKP112	530	su	su	linguistic	none	_	_	_	_	_	_
-530-7	PKP112	530	wikipedia,	wikipedia	linguistic	none	Intonation=weakly_rising	End=1082.64	_	_	_	_
+530-7	PKP112	530	wikipedia,	wikipedia	linguistic	none	Intonation=WeaklyRising	End=1082.64	_	_	_	_
 531-0	PKP112	531	non	non	linguistic	none	_	Begin=1082.831	_	_	_	_
 531-1	PKP112	531	è	è	linguistic	none	_	_	_	_	_	_
 531-2	PKP112	531	una	una	linguistic	none	_	_	_	_	_	_
@@ -2831,7 +2831,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 569-0	PKP112	569	dell[a:]	della	linguistic	none	_	Begin=1194.85|End=1195.84	4x1	_	_	4-5(110)
 570-0	PKP118	570	[È]	è	linguistic	none	Volume=High	Begin=1195.385	_	_	_	0-1(110)
 570-1	PKP118	570	un	un	linguistic	none	_	_	_	_	_	_
-570-2	PKP118	570	castello,	castello	linguistic	none	Intonation=weakly_rising	End=1196.339	_	_	_	_
+570-2	PKP118	570	castello,	castello	linguistic	none	Intonation=WeaklyRising	End=1196.339	_	_	_	_
 571-0	PKP118	571	lì	lì	linguistic	none	_	Begin=1197.754	_	_	_	_
 571-1	PKP118	571	il	il	linguistic	none	_	_	_	_	_	_
 571-2	PKP118	571	castello	castello	linguistic	none	_	_	_	_	_	_
@@ -2857,7 +2857,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 571-22	PKP118	571	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 571-23	PKP118	571	arianna	arianna	linguistic	none	_	_	_	_	_	_
 571-24	PKP118	571	quest'	quest'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-571-25	PKP118	571	estate,	estate	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+571-25	PKP118	571	estate,	estate	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 571-26	PKP118	571	((legge))	((legge))	nonverbalbehavior	none	_	End=1205.023	_	_	_	_
 572-0	PKP119	572	con	con	linguistic	none	_	Begin=1206.18	_	_	_	_
 572-1	PKP119	572	chi?	chi	linguistic	none	Intonation=Rising	End=1206.87	_	_	_	_
@@ -2930,7 +2930,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 584-0	PKP118	584	beh	beh	linguistic	none	_	Begin=1221.29	_	_	_	_
 584-1	PKP118	584	non	non	linguistic	none	_	_	_	_	_	_
 584-2	PKP118	584	è	è	linguistic	none	_	_	_	_	_	_
-584-3	PKP118	584	antichissimo,	antichissimo	linguistic	none	Intonation=weakly_rising	End=1222.36	_	_	_	_
+584-3	PKP118	584	antichissimo,	antichissimo	linguistic	none	Intonation=WeaklyRising	End=1222.36	_	_	_	_
 585-0	PKP118	585	>allora<	allora	linguistic	none	_	Begin=1222.62	_	Fast=0-6	_	_
 585-1	PKP118	585	il	il	linguistic	none	_	_	_	_	_	_
 585-2	PKP118	585	castello	castello	linguistic	none	_	_	_	_	_	_
@@ -3062,7 +3062,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 597-13	PKP118	597	((legge))	((legge))	nonverbalbehavior	none	_	End=1276.116	_	_	_	_
 598-0	PKP112	598	>vabbè<	vabbè	linguistic	none	_	Begin=1277.127|End=1277.54	_	Fast=0-5	_	_
 599-0	PKP118	599	°tutto	tutto	linguistic	none	Volume=Low	Begin=1277.587	_	_	_	_
-599-1	PKP118	599	xx,°	xx	linguistic	none	Intonation=weakly_rising|Volume=Low	End=1278.413	_	_	_	_
+599-1	PKP118	599	xx,°	xx	linguistic	none	Intonation=WeaklyRising|Volume=Low	End=1278.413	_	_	_	_
 600-0	PKP118	600	SÌ	sì	linguistic	none	Volume=High	Begin=1280.645	_	_	_	_
 600-1	PKP118	600	come	come	linguistic	none	_	_	_	_	_	_
 600-2	PKP118	600	quindi:.	quindi	linguistic	none	Intonation=Falling	End=1281.738	5x1	_	_	_
@@ -3070,7 +3070,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 601-1	PKP119	601	ci	ci	linguistic	none	_	_	_	_	_	_
 601-2	PKP119	601	an~	an~	linguistic	none	Interrupted=Yes	End=1285.18	_	_	_	_
 602-0	PKP112	602	ci	ci	linguistic	none	_	Begin=1287.63	_	_	_	_
-602-1	PKP112	602	andiamo,	andiamo	linguistic	none	Intonation=weakly_rising	End=1288.24	_	_	_	_
+602-1	PKP112	602	andiamo,	andiamo	linguistic	none	Intonation=WeaklyRising	End=1288.24	_	_	_	_
 603-0	PKP119	603	sì	sì	linguistic	none	_	Begin=1288.47	_	_	_	_
 603-1	PKP119	603	andremo	andremo	linguistic	none	_	_	_	_	_	_
 603-2	PKP119	603	a	a	linguistic	none	_	_	_	_	_	_
@@ -3078,7 +3078,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 603-4	PKP119	603	una	una	linguistic	none	_	_	_	_	_	_
 603-5	PKP119	603	GITA	gita	linguistic	none	Volume=High	End=1290.229	_	_	_	_
 604-0	PKP112	604	[dai]	dai	linguistic	none	_	Begin=1290.28	_	_	_	0-3(?)
-604-1	PKP112	604	andiamoci,	andiamoci	linguistic	none	Intonation=weakly_rising	End=1291.286	_	_	_	_
+604-1	PKP112	604	andiamoci,	andiamoci	linguistic	none	Intonation=WeaklyRising	End=1291.286	_	_	_	_
 605-0	PKP118	605	sì	sì	linguistic	none	_	Begin=1291.351|End=1291.791	_	_	_	_
 606-0	PKP118	606	al:lora	allora	linguistic	none	_	Begin=1301.13	1x1	_	_	_
 606-1	PKP118	606	stavo	stavo	linguistic	none	_	_	_	_	_	_
@@ -3130,13 +3130,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 618-7	PKP118	618	il	il	linguistic	none	_	_	_	_	_	_
 618-8	PKP118	618	restauro	restauro	linguistic	none	_	End=1342.112	_	_	_	_
 619-0	PKP119	619	(devono)	devono	linguistic	none	_	Begin=1342.76	_	_	0-6(0)	_
-619-1	PKP119	619	pagare,	pagare	linguistic	none	Intonation=weakly_rising	End=1343.705	_	_	_	_
+619-1	PKP119	619	pagare,	pagare	linguistic	none	Intonation=WeaklyRising	End=1343.705	_	_	_	_
 620-0	PKP118	620	cioè	cioè	linguistic	none	_	Begin=1344.314	_	_	_	_
 620-1	PKP118	620	n:o~	no~	linguistic	none	Interrupted=Yes	_	0x1	_	_	_
 620-2	PKP118	620	forse	forse	linguistic	none	_	_	_	_	_	_
 620-3	PKP118	620	di	di	linguistic	none	_	_	_	_	_	_
 620-4	PKP118	620	alcune	alcune	linguistic	none	_	_	_	_	_	_
-620-5	PKP118	620	parti,	parti	linguistic	none	Intonation=weakly_rising	End=1347.021	_	_	_	_
+620-5	PKP118	620	parti,	parti	linguistic	none	Intonation=WeaklyRising	End=1347.021	_	_	_	_
 621-0	PKP112	621	ma	ma	linguistic	none	_	Begin=1349.44	_	_	_	_
 621-1	PKP112	621	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 621-2	PKP112	621	PERCHÈ	perchè	linguistic	none	Volume=High	_	_	_	_	_
@@ -3264,7 +3264,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 641-3	PKP119	641	arrabbiato?	arrabbiato	linguistic	none	Intonation=Rising	End=1395.86	_	_	_	_
 642-0	PKP112	642	[(cioè	cioè	linguistic	none	_	Begin=1395.262	_	_	0-4(0)	0-4(123)
 642-1	PKP112	642	(.)	[PAUSE]	shortpause	none	_	_	_	_	0-3(0)	0-3(123)
-642-2	PKP112	642	per~,)]	per~	linguistic	none	Intonation=weakly_rising	End=1395.919	_	_	0-4(0)	0-4(123)
+642-2	PKP112	642	per~,)]	per~	linguistic	none	Intonation=WeaklyRising	End=1395.919	_	_	0-4(0)	0-4(123)
 643-0	PKP118	643	perché	perché	linguistic	none	_	Begin=1395.92	_	_	_	_
 643-1	PKP118	643	non	non	linguistic	none	_	_	_	_	_	_
 643-2	PKP118	643	gli	gli	linguistic	none	_	_	_	_	_	_
@@ -3339,7 +3339,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 656-1	PKP119	656	PAS]QUA	pasqua	linguistic	none	Volume=High	End=1422.37	_	_	_	0-3(126)
 657-0	PKP112	657	mh	mh	linguistic	none	_	Begin=1423.146	_	_	_	_
 657-1	PKP112	657	>NO<	no	linguistic	none	Volume=High	_	_	Fast=0-2	_	_
-657-2	PKP112	657	pri:ma,	prima	linguistic	none	Intonation=weakly_rising	End=1424.461	2x1	_	_	_
+657-2	PKP112	657	pri:ma,	prima	linguistic	none	Intonation=WeaklyRising	End=1424.461	2x1	_	_	_
 658-0	PKP112	658	>cioè	cioè	linguistic	none	_	Begin=1424.553	_	Fast=0-4	_	_
 658-1	PKP112	658	là<	là	linguistic	none	_	_	_	Fast=0-2	_	_
 658-2	PKP112	658	facciamo	facciamo	linguistic	none	_	_	_	_	_	_
@@ -3349,10 +3349,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 658-6	PKP112	658	che	che	linguistic	none	_	_	_	_	_	_
 658-7	PKP112	658	venga	venga	linguistic	none	_	_	_	_	_	_
 658-8	PKP112	658	freddo	freddo	linguistic	none	_	_	_	_	_	_
-658-9	PKP112	658	dai,	dai	linguistic	none	Intonation=weakly_rising	End=1427.596	_	_	_	_
+658-9	PKP112	658	dai,	dai	linguistic	none	Intonation=WeaklyRising	End=1427.596	_	_	_	_
 659-0	PKP118	659	sì	sì	linguistic	none	_	Begin=1427.66|End=1428.03	_	_	_	_
 660-0	PKP112	660	quest'	quest'	linguistic	none	SpaceAfter=No	Begin=1428.536	_	_	_	_
-660-1	PKP112	660	autunno,	autunno	linguistic	none	Intonation=weakly_rising	End=1429.533	_	_	_	_
+660-1	PKP112	660	autunno,	autunno	linguistic	none	Intonation=WeaklyRising	End=1429.533	_	_	_	_
 661-0	PKP118	661	[sì]	sì	linguistic	none	_	Begin=1429.56|End=1429.95	_	_	_	0-2(127)
 662-0	PKP119	662	[no]	no	linguistic	none	_	Begin=1429.57|End=1429.99	_	_	_	0-2(127)
 663-0	PKP118	663	beh	beh	linguistic	none	_	Begin=1430.734	_	_	_	_
@@ -3381,7 +3381,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 663-23	PKP118	663	a	a	linguistic	none	_	_	_	_	_	_
 663-24	PKP118	663	casa	casa	linguistic	none	_	_	_	_	_	_
 663-25	PKP118	663	dell'	dell'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-663-26	PKP118	663	arianna,	arianna	linguistic	none	Intonation=weakly_rising	End=1436.419	_	_	_	_
+663-26	PKP118	663	arianna,	arianna	linguistic	none	Intonation=WeaklyRising	End=1436.419	_	_	_	_
 664-0	PKP112	664	[mh]?	mh	linguistic	none	Intonation=Rising	Begin=1431.3|End=1431.504	_	_	_	0-2(128)
 665-0	PKP118	665	non	non	linguistic	none	_	Begin=1437.96	_	_	_	_
 665-1	PKP118	665	è	è	linguistic	none	_	_	_	_	_	_
@@ -3483,7 +3483,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 679-3	PKP118	679	ce	ce	linguistic	none	_	_	_	_	_	_
 679-4	PKP118	679	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 679-5	PKP118	679	hai	hai	linguistic	none	_	_	_	_	_	_
-679-6	PKP118	679	google,	google	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+679-6	PKP118	679	google,	google	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 679-7	PKP118	679	ecco	ecco	linguistic	none	_	_	_	_	_	_
 679-8	PKP118	679	maps:	maps	linguistic	none	_	_	3x1	_	_	_
 679-9	PKP118	679	(°è	è	linguistic	none	Volume=Low	_	_	_	0-1(0)	_
@@ -3503,7 +3503,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 682-6	PKP118	682	fico	fico	linguistic	none	_	_	_	_	_	_
 682-7	PKP118	682	caramellato	caramellato	linguistic	none	_	_	_	_	_	_
 682-8	PKP118	682	è	è	linguistic	none	_	_	_	_	_	_
-682-9	PKP118	682	buonissimo,	buonissimo	linguistic	none	Intonation=weakly_rising	End=1484.75	_	_	_	_
+682-9	PKP118	682	buonissimo,	buonissimo	linguistic	none	Intonation=WeaklyRising	End=1484.75	_	_	_	_
 683-0	PKP119	683	eh	eh	linguistic	none	_	Begin=1484.798	_	_	_	_
 683-1	PKP119	683	ringrazia	ringrazia	linguistic	none	_	_	_	_	_	_
 683-2	PKP119	683	la	la	linguistic	none	_	_	_	_	_	_
@@ -3516,7 +3516,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 686-1	PKP118	686	b:uono	buono	linguistic	none	_	End=1490.053	0x1	_	_	_
 687-0	PKP118	687	>perché	perché	linguistic	none	_	Begin=1502.83	_	Fast=0-6	_	_
 687-1	PKP118	687	mi	mi	linguistic	none	_	_	_	Fast=0-2	_	_
-687-2	PKP118	687	dà<,	dà	linguistic	none	Intonation=weakly_rising	_	_	Fast=0-2	_	_
+687-2	PKP118	687	dà<,	dà	linguistic	none	Intonation=WeaklyRising	_	_	Fast=0-2	_	_
 687-3	PKP118	687	<chiesa>	chiesa	linguistic	none	_	_	_	Slow=0-6	_	_
 687-4	PKP118	687	di	di	linguistic	none	_	_	_	_	_	_
 687-5	PKP118	687	rocchetta	rocchetta	linguistic	none	_	_	_	_	_	_
@@ -3648,7 +3648,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 709-3	PKP118	709	la	la	linguistic	none	_	_	_	_	_	_
 709-4	PKP118	709	parte	parte	linguistic	none	_	_	_	_	_	_
 709-5	PKP118	709	tutt'	tutt'	linguistic	none	SpaceAfter=No	_	_	_	_	4-5(?)
-709-6	PKP118	709	[intorno],	intorno	linguistic	none	Intonation=weakly_rising	End=1549.715	_	_	_	0-6(?)
+709-6	PKP118	709	[intorno],	intorno	linguistic	none	Intonation=WeaklyRising	End=1549.715	_	_	_	0-6(?)
 710-0	PKP112	710	[sì:	sì	linguistic	none	_	Begin=1549.491	1x1	_	_	0-2(139)
 710-1	PKP112	710	è]	è	linguistic	none	_	_	_	_	_	0-1(139)
 710-2	PKP112	710	ammuffita	ammuffita	linguistic	none	_	End=1550.119	_	_	_	_
@@ -3665,7 +3665,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 714-1	PKP118	714	((ride))	((ride))	nonverbalbehavior	none	_	End=1555.586	_	_	_	_
 715-0	PKP119	715	ha	ha	linguistic	none	_	Begin=1556.36	_	_	_	_
 715-1	PKP119	715	detto	detto	linguistic	none	_	_	_	_	_	_
-715-2	PKP119	715	[pichino],	pichino	linguistic	none	Intonation=weakly_rising	End=1557.11	_	_	_	0-7(140)
+715-2	PKP119	715	[pichino],	pichino	linguistic	none	Intonation=WeaklyRising	End=1557.11	_	_	_	0-7(140)
 716-0	PKP118	716	[fico]	fico	linguistic	none	_	Begin=1556.87|End=1557.313	_	_	_	0-4(140)
 717-0	PKP118	717	ho	ho	linguistic	none	_	Begin=1557.58	_	_	_	_
 717-1	PKP118	717	detto	detto	linguistic	none	_	_	_	_	_	_
@@ -3688,7 +3688,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 722-3	PKP118	722	quanto	quanto	linguistic	none	_	_	_	_	_	_
 722-4	PKP118	722	ci	ci	linguistic	none	_	_	_	_	_	_
 722-5	PKP118	722	vuole	vuole	linguistic	none	_	_	_	_	_	_
-722-6	PKP118	722	qua,	qua	linguistic	none	Intonation=weakly_rising	End=1567.613	_	_	_	_
+722-6	PKP118	722	qua,	qua	linguistic	none	Intonation=WeaklyRising	End=1567.613	_	_	_	_
 723-0	PKP118	723	altro	altro	linguistic	none	_	Begin=1567.722	_	_	_	_
 723-1	PKP118	723	che:	che	linguistic	none	_	_	2x1	_	_	_
 723-2	PKP118	723	ottantatré	ottantatré	linguistic	none	_	_	_	_	_	_
@@ -3699,7 +3699,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 724-0	PKP119	724	ma	ma	linguistic	none	_	Begin=1572.3	_	_	_	_
 724-1	PKP119	724	per	per	linguistic	none	_	_	_	_	_	_
 724-2	PKP119	724	andar	andar	linguistic	none	_	_	_	_	_	_
-724-3	PKP119	724	dove,	dove	linguistic	none	Intonation=weakly_rising	End=1573.08	_	_	_	_
+724-3	PKP119	724	dove,	dove	linguistic	none	Intonation=WeaklyRising	End=1573.08	_	_	_	_
 725-0	PKP118	725	a	a	linguistic	none	_	Begin=1573.19	_	_	_	_
 725-1	PKP118	725	<rocchetta	rocchetta	linguistic	none	_	_	_	Slow=0-9	_	_
 725-2	PKP118	725	mattei>	mattei	linguistic	none	_	End=1574.48	_	Slow=0-6	_	_
@@ -3708,7 +3708,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 726-2	PKP112	726	vuol~	vuol~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 726-3	PKP112	726	quanto:	quanto	linguistic	none	_	_	5x1	_	_	_
 726-4	PKP112	726	tempo	tempo	linguistic	none	_	_	_	_	_	_
-726-5	PKP112	726	ore,	ore	linguistic	none	Intonation=weakly_rising	End=1577.299	_	_	_	_
+726-5	PKP112	726	ore,	ore	linguistic	none	Intonation=WeaklyRising	End=1577.299	_	_	_	_
 727-0	PKP119	727	[°ah	ah	linguistic	none	Volume=Low	Begin=1575.46	_	_	_	0-2(141)
 727-1	PKP119	727	sì?°]	sì	linguistic	none	Intonation=Rising|Volume=Low	End=1575.98	_	_	_	0-2(141)
 728-0	PKP118	728	un'	un'	linguistic	none	SpaceAfter=No	Begin=1577.35	_	_	_	_
@@ -3726,7 +3726,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 730-4	PKP112	730	una	una	linguistic	none	_	_	_	_	_	_
 730-5	PKP112	730	gita	gita	linguistic	none	_	_	_	_	_	_
 730-6	PKP112	730	un	un	linguistic	none	_	_	_	_	_	_
-730-7	PKP112	730	giorno,	giorno	linguistic	none	Intonation=weakly_rising	End=1580.74	_	_	_	_
+730-7	PKP112	730	giorno,	giorno	linguistic	none	Intonation=WeaklyRising	End=1580.74	_	_	_	_
 731-0	PKP119	731	non	non	linguistic	none	_	Begin=1584.296	_	_	_	_
 731-1	PKP119	731	lo	lo	linguistic	none	_	_	_	_	_	_
 731-2	PKP119	731	dire	dire	linguistic	none	_	_	_	_	_	_
@@ -3898,9 +3898,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 767-3	PKP118	767	po'	po'	linguistic	none	_	_	_	_	_	_
 767-4	PKP118	767	in	in	linguistic	none	_	_	_	_	_	_
 767-5	PKP118	767	là	là	linguistic	none	_	_	_	_	_	_
-767-6	PKP118	767	eh,	eh	linguistic	none	Intonation=weakly_rising	End=1644.884	_	_	_	_
+767-6	PKP118	767	eh,	eh	linguistic	none	Intonation=WeaklyRising	End=1644.884	_	_	_	_
 768-0	PKP112	768	GUIDO	guido	linguistic	none	Volume=High	Begin=1644.913	_	_	_	_
-768-1	PKP112	768	IO,	io	linguistic	none	Intonation=weakly_rising|Volume=High	End=1645.494	_	_	_	_
+768-1	PKP112	768	IO,	io	linguistic	none	Intonation=WeaklyRising|Volume=High	End=1645.494	_	_	_	_
 769-0	PKP119	769	così	così	linguistic	none	_	Begin=1646.59	_	_	_	_
 769-1	PKP119	769	non	non	linguistic	none	_	_	_	_	_	_
 769-2	PKP119	769	ce	ce	linguistic	none	_	_	_	_	_	_
@@ -3973,7 +3973,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 781-5	PKP119	781	sei	sei	linguistic	none	_	_	_	_	_	_
 781-6	PKP119	781	mangiati	mangiati	linguistic	none	_	_	_	_	_	_
 781-7	PKP119	781	tutti	tutti	linguistic	none	_	_	_	_	_	_
-781-8	PKP119	781	te,	te	linguistic	none	Intonation=weakly_rising	End=1670.813	_	_	_	_
+781-8	PKP119	781	te,	te	linguistic	none	Intonation=WeaklyRising	End=1670.813	_	_	_	_
 782-0	PKP118	782	>MA<	ma	linguistic	none	Volume=High	Begin=1670.854	_	Fast=0-2	_	_
 782-1	PKP118	782	I:O	io	linguistic	none	Volume=High	_	0x1	_	_	_
 782-2	PKP118	782	ne	ne	linguistic	none	_	_	_	_	_	_
@@ -4094,7 +4094,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 810-3	PKP119	810	vero?	vero	linguistic	none	Intonation=Rising	End=1725.21	_	_	_	_
 811-0	PKP118	811	no.	no	linguistic	none	Intonation=Falling	Begin=1725.42|End=1725.76	_	_	_	_
 812-0	PKP119	812	no	no	linguistic	none	_	Begin=1726.071|End=1726.282	_	_	_	_
-813-0	PKP118	813	(però,)	però	linguistic	none	Intonation=weakly_rising	Begin=1726.38|End=1727.15	_	_	0-4(0)	_
+813-0	PKP118	813	(però,)	però	linguistic	none	Intonation=WeaklyRising	Begin=1726.38|End=1727.15	_	_	0-4(0)	_
 814-0	PKP118	814	>adesso	adesso	linguistic	none	_	Begin=1728.878	_	Fast=0-6	_	_
 814-1	PKP118	814	vediamo<	vediamo	linguistic	none	_	_	_	Fast=0-7	_	_
 814-2	PKP118	814	quanto	quanto	linguistic	none	_	_	_	_	_	_
@@ -4212,7 +4212,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 838-3	PKP118	838	fai	fai	linguistic	none	_	_	_	_	_	_
 838-4	PKP118	838	a	a	linguistic	none	_	_	_	_	_	_
 838-5	PKP118	838	caramellarli	caramellarli	linguistic	none	_	_	_	_	_	_
-838-6	PKP118	838	scusa,	scusa	linguistic	none	Intonation=weakly_rising	End=1770.85	_	_	_	_
+838-6	PKP118	838	scusa,	scusa	linguistic	none	Intonation=WeaklyRising	End=1770.85	_	_	_	_
 839-0	PKP119	839	però	però	linguistic	none	_	Begin=1771.03	_	_	_	_
 839-1	PKP119	839	già:	già	linguistic	none	_	_	2x1	_	_	_
 839-2	PKP119	839	il	il	linguistic	none	_	_	_	_	_	_
@@ -4290,7 +4290,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 854-7	PKP112	854	oggi?	oggi	linguistic	none	Intonation=Rising	End=1807.77	_	_	_	_
 855-0	PKP118	855	che	che	linguistic	none	_	Begin=1808.6	_	_	_	_
 855-1	PKP118	855	sta	sta	linguistic	none	_	_	_	_	_	_
-855-2	PKP118	855	be:ne,	bene	linguistic	none	Intonation=weakly_rising	End=1809.38	1x1	_	_	_
+855-2	PKP118	855	be:ne,	bene	linguistic	none	Intonation=WeaklyRising	End=1809.38	1x1	_	_	_
 856-0	PKP119	856	c'	c'	linguistic	none	SpaceAfter=No	Begin=1809.99	_	_	_	_
 856-1	PKP119	856	hai	hai	linguistic	none	_	_	_	_	_	_
 856-2	PKP119	856	un	un	linguistic	none	_	_	_	_	_	_
@@ -4358,7 +4358,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 871-1	PKP112	871	mh:	mh	linguistic	none	_	_	1x1	_	_	_
 871-2	PKP112	871	[uguale	uguale	linguistic	none	_	_	_	_	_	0-6(164)
 871-3	PKP112	871	la	la	linguistic	none	_	_	_	_	_	0-2(164)
-871-4	PKP112	871	situazione],	situazione	linguistic	none	Intonation=weakly_rising	End=1839.45	_	_	_	0-10(164)
+871-4	PKP112	871	situazione],	situazione	linguistic	none	Intonation=WeaklyRising	End=1839.45	_	_	_	0-10(164)
 872-0	PKP118	872	[sì	sì	linguistic	none	_	Begin=1838.455	_	_	_	0-2(164)
 872-1	PKP118	872	come	come	linguistic	none	_	_	_	_	_	0-4(164)
 872-2	PKP118	872	s~	s~	linguistic	none	Interrupted=Yes	_	_	_	_	0-2(164)
@@ -4480,7 +4480,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 896-0	PKP119	896	quello	quello	linguistic	none	_	Begin=1880.761	_	_	_	_
 896-1	PKP119	896	grosso	grosso	linguistic	none	_	End=1881.4	_	_	_	_
 897-0	PKP119	897	quello	quello	linguistic	none	_	Begin=1881.525	_	_	_	_
-897-1	PKP119	897	piccolo:,	piccolo	linguistic	none	Intonation=weakly_rising	End=1882.205	6x1	_	_	_
+897-1	PKP119	897	piccolo:,	piccolo	linguistic	none	Intonation=WeaklyRising	End=1882.205	6x1	_	_	_
 898-0	PKP118	898	è	è	linguistic	none	_	Begin=1882.234	_	_	_	_
 898-1	PKP118	898	tuo	tuo	linguistic	none	_	_	_	_	_	_
 898-2	PKP118	898	((ride))	((ride))	nonverbalbehavior	none	_	End=1883.38	_	_	_	_
@@ -4595,7 +4595,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 916-1	PKP119	916	dirò)]	dirò	linguistic	none	_	End=1922.937	_	_	0-4(0)	0-4(169)
 917-0	PKP118	917	ma	ma	linguistic	none	_	Begin=1924.888	_	_	_	_
 917-1	PKP118	917	va	va	linguistic	none	_	_	_	_	_	_
-917-2	PKP118	917	là:,	là	linguistic	none	Intonation=weakly_rising	End=1925.507	1x1	_	_	_
+917-2	PKP118	917	là:,	là	linguistic	none	Intonation=WeaklyRising	End=1925.507	1x1	_	_	_
 918-0	PKP112	918	>ma<	ma	linguistic	none	_	Begin=1926.397	_	Fast=0-2	_	_
 918-1	PKP112	918	COSA	cosa	linguistic	none	Volume=High	_	_	_	_	_
 918-2	PKP112	918	GLI	gli	linguistic	none	Volume=High	_	_	_	_	_
@@ -4603,7 +4603,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 918-4	PKP112	918	FATTO	fatto	linguistic	none	Volume=High	_	_	_	_	_
 918-5	PKP112	918	non	non	linguistic	none	_	_	_	_	_	_
 918-6	PKP112	918	ho	ho	linguistic	none	_	_	_	_	_	_
-918-7	PKP112	918	capito,	capito	linguistic	none	Intonation=weakly_rising	End=1927.549	_	_	_	_
+918-7	PKP112	918	capito,	capito	linguistic	none	Intonation=WeaklyRising	End=1927.549	_	_	_	_
 919-0	PKP119	919	ma:	ma	linguistic	none	_	Begin=1927.895	1x1	_	_	_
 919-1	PKP119	919	ho	ho	linguistic	none	_	_	_	_	_	_
 919-2	PKP119	919	messo	messo	linguistic	none	_	_	_	_	_	_

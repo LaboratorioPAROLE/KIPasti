@@ -722,7 +722,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 140-15	PKP054	140	ritardo	ritardo	linguistic	none	_	_	_	_	_	_
 140-16	PKP054	140	di	di	linguistic	none	_	End=342.203	_	_	_	_
 141-0	PKP054	141	trenta	trenta	linguistic	none	_	Begin=343.664	_	_	_	_
-141-1	PKP054	141	minuti,	minuti	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+141-1	PKP054	141	minuti,	minuti	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 141-2	PKP054	141	un'	un'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 141-3	PKP054	141	ora	ora	linguistic	none	_	End=344.946	_	_	_	_
 142-0	PKP093	142	((ride))	((ride))	nonverbalbehavior	none	_	Begin=345.189	_	_	_	_
@@ -2736,7 +2736,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 468-8	PKP093	468	con	con	linguistic	none	_	_	_	_	_	_
 468-9	PKP093	468	salsa	salsa	linguistic	none	_	_	_	_	_	_
 468-10	PKP093	468	di	di	linguistic	none	_	_	_	_	_	_
-468-11	PKP093	468	yogurt,	yogurt	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+468-11	PKP093	468	yogurt,	yogurt	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 468-12	PKP093	468	riso	riso	linguistic	none	_	_	_	_	_	_
 468-13	PKP093	468	tutto	tutto	linguistic	none	_	_	_	_	_	_
 468-14	PKP093	468	quel:	quel	linguistic	none	_	_	3x1	_	_	_
@@ -4014,7 +4014,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 694-2	PKP023	694	uno	uno	linguistic	none	_	_	_	_	_	_
 694-3	PKP023	694	due	due	linguistic	none	_	_	_	_	_	_
 694-4	PKP023	694	massimo	massimo	linguistic	none	_	End=1665.573	_	_	_	_
-695-0	PKP093	695	tresei,	tresei	linguistic	none	Intonation=weakly_rising	Begin=1665.842	_	_	_	_
+695-0	PKP093	695	tresei,	tresei	linguistic	none	Intonation=WeaklyRising	Begin=1665.842	_	_	_	_
 695-1	PKP093	695	massimo	massimo	linguistic	none	_	_	_	_	_	_
 695-2	PKP093	695	poi	poi	linguistic	none	_	End=1667.149	_	_	_	_
 696-0	PKP023	696	però	però	linguistic	none	_	Begin=1670.097	_	_	_	_
@@ -4752,8 +4752,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 821-5	PKP055	821	del	del	linguistic	none	_	_	_	_	_	_
 821-6	PKP055	821	xx	x	unknown	none	_	End=1955.657	_	_	_	_
 822-0	PKP093	822	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1955.67	_	_	_	_
-822-1	PKP093	822	uno,	uno	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-822-2	PKP093	822	°due,	due	linguistic	none	Intonation=weakly_rising|Volume=Low	_	_	_	_	_
+822-1	PKP093	822	uno,	uno	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+822-2	PKP093	822	°due,	due	linguistic	none	Intonation=WeaklyRising|Volume=Low	_	_	_	_	_
 822-3	PKP093	822	tre°	tre	linguistic	none	Volume=Low	End=1959.67	_	_	_	_
 823-0	PKP055	823	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1959.683|End=1961.76	_	_	_	_
 824-0	PKP023	824	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1961.785	_	_	_	_
@@ -5260,7 +5260,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 940-3	PKP093	940	in:	in	linguistic	none	_	_	1x1	_	_	_
 940-4	PKP093	940	ciabatte	ciabatte	linguistic	none	_	End=2208.674	_	_	_	_
 941-0	PKP023	941	in	in	linguistic	none	_	Begin=2208.75	_	_	_	_
-941-1	PKP023	941	ciaba:tte,	ciabatte	linguistic	none	Intonation=weakly_rising	_	4x1	_	_	_
+941-1	PKP023	941	ciaba:tte,	ciabatte	linguistic	none	Intonation=WeaklyRising	_	4x1	_	_	_
 941-2	PKP023	941	[pantaloncini]	pantaloncini	linguistic	none	_	_	_	_	_	0-12(106)
 941-3	PKP023	941	non	non	linguistic	none	_	_	_	_	_	_
 941-4	PKP023	941	gli	gli	linguistic	none	_	_	_	_	_	_

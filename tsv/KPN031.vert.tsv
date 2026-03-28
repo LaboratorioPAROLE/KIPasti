@@ -3798,7 +3798,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 746-0	PKP037	746	quelli	quelli	linguistic	none	_	Begin=1252.473	_	_	_	_
 746-1	PKP037	746	hanno:	hanno	linguistic	none	_	_	4x1	_	_	_
 746-2	PKP037	746	essenzialment[e	essenzialmente	linguistic	none	_	_	_	_	_	13-14(224)
-746-3	PKP037	746	gamberi],	gamberi	linguistic	none	Intonation=weakly_rising	End=1254.37	_	_	_	0-7(224)
+746-3	PKP037	746	gamberi],	gamberi	linguistic	none	Intonation=WeaklyRising	End=1254.37	_	_	_	0-7(224)
 747-0	PKP036	747	[sempre	sempre	linguistic	none	_	Begin=1253.69	_	_	_	0-6(224)
 747-1	PKP036	747	tre	tre	linguistic	none	_	_	_	_	_	0-3(224)
 747-2	PKP036	747	pe]sci	pesci	linguistic	none	_	_	_	_	_	0-2(224)
@@ -3807,7 +3807,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 748-1	PKP037	748	tagli	tagli	linguistic	none	_	_	_	_	_	_
 748-2	PKP037	748	diversi	diversi	linguistic	none	_	_	_	_	_	_
 748-3	PKP037	748	di	di	linguistic	none	_	_	_	_	_	_
-748-4	PKP037	748	tonno,	tonno	linguistic	none	Intonation=weakly_rising	End=1256.63	_	_	_	_
+748-4	PKP037	748	tonno,	tonno	linguistic	none	Intonation=WeaklyRising	End=1256.63	_	_	_	_
 749-0	PKP036	749	però	però	linguistic	none	_	Begin=1257.72	_	_	_	_
 749-1	PKP036	749	erano	erano	linguistic	none	_	_	_	_	_	_
 749-2	PKP036	749	[sì	sì	linguistic	none	_	_	_	_	_	0-2(225)
@@ -3885,7 +3885,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 765-2	PKP037	765	[sugli	sugli	linguistic	none	_	_	_	_	_	0-5(228)
 765-3	PKP037	765	spiedini]	spiedini	linguistic	none	_	End=1293.37	_	_	_	0-8(228)
 766-0	PKP036	766	[xxx]	x	unknown	none	_	Begin=1292.35|End=1293.2	_	_	_	0-3(228)
-767-0	PKP036	767	[fritture:],	fritture	linguistic	none	Intonation=weakly_rising	Begin=1294.03	7x1	_	_	0-8(?)
+767-0	PKP036	767	[fritture:],	fritture	linguistic	none	Intonation=WeaklyRising	Begin=1294.03	7x1	_	_	0-8(?)
 767-1	PKP036	767	po:lpo	polpo	linguistic	none	_	_	1x1	_	_	_
 767-2	PKP036	767	sì	sì	linguistic	none	_	End=1296.14	_	_	_	_
 768-0	PKP037	768	[tipo	tipo	linguistic	none	_	Begin=1294.04	_	_	_	0-4(229)
@@ -3923,7 +3923,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 774-8	PKP037	774	una	una	linguistic	none	_	_	_	_	_	_
 774-9	PKP037	774	ciotolina	ciotolina	linguistic	none	_	_	_	_	_	_
 774-10	PKP037	774	di	di	linguistic	none	_	_	_	_	_	_
-774-11	PKP037	774	riso,	riso	linguistic	none	Intonation=weakly_rising	End=1309.29	_	_	_	_
+774-11	PKP037	774	riso,	riso	linguistic	none	Intonation=WeaklyRising	End=1309.29	_	_	_	_
 775-0	PKP036	775	sì	sì	linguistic	none	_	Begin=1310.087	_	_	_	_
 775-1	PKP036	775	tante	tante	linguistic	none	_	_	_	_	_	_
 775-2	PKP036	775	ciotoline:	ciotoline	linguistic	none	_	_	8x1	_	_	_
@@ -6389,7 +6389,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1289-5	PKP036	1289	mese	mese	linguistic	none	_	_	_	_	_	_
 1289-6	PKP036	1289	vero	vero	linguistic	none	_	End=2138.89	_	_	_	_
 1290-0	PKP036	1290	sono	sono	linguistic	none	_	Begin=2139.36	_	_	_	_
-1290-1	PKP036	1290	scesa,	scesa	linguistic	none	Intonation=weakly_rising	End=2140.33	_	_	_	_
+1290-1	PKP036	1290	scesa,	scesa	linguistic	none	Intonation=WeaklyRising	End=2140.33	_	_	_	_
 1291-0	PKP036	1291	m:h	mh	linguistic	none	_	Begin=2140.96|End=2141.78	0x1	_	_	_
 1292-0	PKP037	1292	[il	il	linguistic	none	_	Begin=2142.26	_	_	_	0-2(353)
 1292-1	PKP037	1292	venti]	venti	linguistic	none	_	End=2142.859	_	_	_	0-5(353)
@@ -6641,8 +6641,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1354-5	PKP036	1354	niente	niente	linguistic	none	_	End=2238.22	_	_	_	_
 1355-0	PKP033	1355	ma	ma	linguistic	none	_	Begin=2240.41	_	_	_	_
 1355-1	PKP033	1355	i	i	linguistic	none	_	_	_	_	_	_
-1355-2	PKP033	1355	tuoi,	tuoi	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-1355-3	PKP033	1355	sara,	sara	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1355-2	PKP033	1355	tuoi,	tuoi	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+1355-3	PKP033	1355	sara,	sara	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1355-4	PKP033	1355	stanno	stanno	linguistic	none	_	_	_	_	_	_
 1355-5	PKP033	1355	bene?	bene	linguistic	none	Intonation=Rising	End=2242.71	_	_	_	_
 1356-0	PKP036	1356	stanno	stanno	linguistic	none	_	Begin=2242.76	_	_	_	_
@@ -7802,11 +7802,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1602-5	PKP037	1602	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 1602-6	PKP037	1602	acqua	acqua	linguistic	none	_	_	_	_	_	_
 1602-7	PKP037	1602	è	è	linguistic	none	_	_	_	_	_	_
-1602-8	PKP037	1602	fatta:,	fatta	linguistic	none	Intonation=weakly_rising	End=2644.689	4x1	_	_	_
+1602-8	PKP037	1602	fatta:,	fatta	linguistic	none	Intonation=WeaklyRising	End=2644.689	4x1	_	_	_
 1603-0	PKP036	1603	l'	l'	linguistic	none	SpaceAfter=No	Begin=2644.68	_	_	_	_
 1603-1	PKP036	1603	acqua	acqua	linguistic	none	_	_	_	_	_	_
 1603-2	PKP036	1603	è	è	linguistic	none	_	_	_	_	_	_
-1603-3	PKP036	1603	fa[tta:,	fatta	linguistic	none	Intonation=weakly_rising	_	4x1	_	_	1-5(415)
+1603-3	PKP036	1603	fa[tta:,	fatta	linguistic	none	Intonation=WeaklyRising	_	4x1	_	_	1-5(415)
 1603-4	PKP036	1603	interne]t	internet	linguistic	none	_	_	_	_	_	0-7(415)
 1603-5	PKP036	1603	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1603-6	PKP036	1603	(lo	lo	linguistic	none	_	_	_	_	0-2(0)	_
@@ -8917,11 +8917,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1832-5	PKP036	1832	con:	con	linguistic	none	_	End=3040.39	2x1	_	_	_
 1833-0	PKP036	1833	non	non	linguistic	none	_	Begin=3040.4	_	_	_	_
 1833-1	PKP036	1833	so:	so	linguistic	none	_	_	1x1	_	_	_
-1833-2	PKP036	1833	disoccupa:ti,	disoccupati	linguistic	none	Intonation=weakly_rising	_	8x1	_	_	_
+1833-2	PKP036	1833	disoccupa:ti,	disoccupati	linguistic	none	Intonation=WeaklyRising	_	8x1	_	_	_
 1833-3	PKP036	1833	o	o	linguistic	none	_	_	_	_	_	_
 1833-4	PKP036	1833	con	con	linguistic	none	_	_	_	_	_	_
 1833-5	PKP036	1833	gli	gli	linguistic	none	_	_	_	_	_	_
-1833-6	PKP036	1833	anzia:ni:,	anziani	linguistic	none	Intonation=weakly_rising	_	4x1,6x1	_	_	_
+1833-6	PKP036	1833	anzia:ni:,	anziani	linguistic	none	Intonation=WeaklyRising	_	4x1,6x1	_	_	_
 1833-7	PKP036	1833	co:n	con	linguistic	none	_	End=3044.44	1x1	_	_	_
 1834-0	PKP033	1834	okay	okay	linguistic	none	_	Begin=3044.51|End=3044.92	_	_	_	_
 1835-0	PKP037	1835	mhmh	mhmh	linguistic	none	_	Begin=3045.51|End=3046.09	_	_	_	_

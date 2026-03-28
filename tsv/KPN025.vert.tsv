@@ -2004,7 +2004,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 582-0	PKP108	582	c'	c'	linguistic	none	SpaceAfter=No	Begin=575.098	_	_	_	_
 582-1	PKP108	582	hanno	hanno	linguistic	none	_	_	_	_	_	_
 582-2	PKP108	582	la	la	linguistic	none	_	_	_	_	_	_
-582-3	PKP108	582	[me]:nsa,	mensa	linguistic	none	Intonation=weakly_rising	End=576.022	1x1	_	_	0-2(130)
+582-3	PKP108	582	[me]:nsa,	mensa	linguistic	none	Intonation=WeaklyRising	End=576.022	1x1	_	_	0-2(130)
 583-0	PKP109	583	[(no)]	no	linguistic	none	_	Begin=575.482|End=575.687	_	_	0-2(0)	0-2(130)
 584-0	PKP108	584	c'	c'	linguistic	none	SpaceAfter=No	Begin=576.089	_	_	_	_
 584-1	PKP108	584	hanno:	hanno	linguistic	none	_	_	4x1	_	_	_

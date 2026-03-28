@@ -2291,7 +2291,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 298-2	PKP053	298	CHE	che	linguistic	none	Volume=High	End=925.501	_	_	_	_
 299-0	PKP043	299	a	a	linguistic	none	_	Begin=927.086	_	_	_	_
 299-1	PKP043	299	parte	parte	linguistic	none	_	_	_	_	_	_
-299-2	PKP043	299	che,	che	linguistic	none	Intonation=weakly_rising	End=928.073	_	_	_	_
+299-2	PKP043	299	che,	che	linguistic	none	Intonation=WeaklyRising	End=928.073	_	_	_	_
 300-0	PKP053	300	no	no	linguistic	none	_	Begin=928.293	_	_	_	_
 300-1	PKP053	300	vabbè	vabbè	linguistic	none	_	_	_	_	_	_
 300-2	PKP053	300	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_

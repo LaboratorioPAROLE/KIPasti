@@ -21,7 +21,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 5-4	PKP116	5	amica?	amica	linguistic	none	Intonation=Rising	End=12.588	_	_	_	_
 6-0	PKP115	6	va	va	linguistic	none	_	Begin=12.944	_	_	_	_
 6-1	PKP115	6	ben(e)	bene	linguistic	none	_	End=13.358	_	_	3-4(0)	_
-7-0	PKP115	7	allora,	allora	linguistic	none	Intonation=weakly_rising	Begin=13.696|End=14.09	_	_	_	_
+7-0	PKP115	7	allora,	allora	linguistic	none	Intonation=WeaklyRising	Begin=13.696|End=14.09	_	_	_	_
 8-0	PKP115	8	siamo	siamo	linguistic	none	_	Begin=14.828	_	_	_	_
 8-1	PKP115	8	arrivate	arrivate	linguistic	none	_	_	_	_	_	_
 8-2	PKP115	8	lì:	lì	linguistic	none	_	End=16.026	1x1	_	_	_
@@ -62,7 +62,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 13-2	PKP115	13	entrate.	entrate	linguistic	none	Intonation=Falling	End=27.201	_	_	_	_
 14-0	PKP116	14	mh	mh	linguistic	none	_	Begin=27.489|End=27.682	_	_	_	_
 15-0	PKP115	15	siamo	siamo	linguistic	none	_	Begin=29.323	_	_	_	_
-15-1	PKP115	15	arrivate:,	arrivate	linguistic	none	Intonation=weakly_rising	End=30.32	7x1	_	_	_
+15-1	PKP115	15	arrivate:,	arrivate	linguistic	none	Intonation=WeaklyRising	End=30.32	7x1	_	_	_
 16-0	PKP115	16	e:::::h	eh	linguistic	none	_	Begin=31.189|End=32.381	0x5	_	_	_
 17-0	PKP115	17	((ride))	((ride))	nonverbalbehavior	none	_	Begin=33.871	_	_	_	_
 17-1	PKP115	17	subito	subito	linguistic	none	_	_	_	_	_	_
@@ -98,7 +98,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 23-3	PKP115	23	vedon(o)	vedono	linguistic	none	_	_	_	_	5-6(0)	_
 23-4	PKP115	23	sempre	sempre	linguistic	none	_	_	_	_	_	_
 23-5	PKP115	23	comunque	comunque	linguistic	none	_	_	_	_	_	_
-23-6	PKP115	23	trasandata,	trasandata	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+23-6	PKP115	23	trasandata,	trasandata	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 23-7	PKP115	23	vestita	vestita	linguistic	none	_	End=46.481	_	_	_	_
 24-0	PKP115	24	normale	normale	linguistic	none	_	Begin=46.83|End=47.476	_	_	_	_
 25-0	PKP116	25	xxx	x	unknown	none	_	Begin=48.361|End=48.982	_	_	_	_
@@ -349,9 +349,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 84-5	PKP115	84	era::	era	linguistic	none	_	End=143.011	2x2	_	_	_
 85-0	PKP115	85	m:h	mh	linguistic	none	_	Begin=143.081|End=143.274	0x1	_	_	_
 86-0	PKP115	86	la	la	linguistic	none	_	Begin=144.941	_	_	_	_
-86-1	PKP115	86	gramigna,	gramigna	linguistic	none	Intonation=weakly_rising	End=145.81	_	_	_	_
+86-1	PKP115	86	gramigna,	gramigna	linguistic	none	Intonation=WeaklyRising	End=145.81	_	_	_	_
 87-0	PKP115	87	le	le	linguistic	none	_	Begin=146.652	_	_	_	_
-87-1	PKP115	87	crescentine:,	crescentine	linguistic	none	Intonation=weakly_rising	End=147.967	10x1	_	_	_
+87-1	PKP115	87	crescentine:,	crescentine	linguistic	none	Intonation=WeaklyRising	End=147.967	10x1	_	_	_
 88-0	PKP115	88	[la	la	linguistic	none	_	Begin=148.18	_	_	_	0-2(11)
 88-1	PKP115	88	pi]zza	pizza	linguistic	none	_	End=149.064	_	_	_	0-2(11)
 89-0	PKP116	89	[ah	ah	linguistic	none	_	Begin=148.186	_	_	_	0-2(11)
@@ -475,7 +475,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 119-1	PKP116	119	dovev(i)	dovevi	linguistic	none	_	_	_	_	5-6(1)	_
 119-2	PKP116	119	bere	bere	linguistic	none	_	_	_	_	_	_
 119-3	PKP116	119	>piano	piano	linguistic	none	_	_	_	Fast=0-5	_	_
-119-4	PKP116	119	piano<,	piano	linguistic	none	Intonation=weakly_rising	End=197.554	_	Fast=0-5	_	_
+119-4	PKP116	119	piano<,	piano	linguistic	none	Intonation=WeaklyRising	End=197.554	_	Fast=0-5	_	_
 120-0	PKP116	120	mentre	mentre	linguistic	none	_	Begin=198.072	_	_	_	_
 120-1	PKP116	120	che	che	linguistic	none	_	_	_	_	_	_
 120-2	PKP116	120	mangi	mangi	linguistic	none	_	End=198.829	_	_	_	_
@@ -586,7 +586,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 148-0	PKP115	148	a	a	linguistic	none	_	Begin=240.087	_	_	_	_
 148-1	PKP115	148	gente	gente	linguistic	none	_	_	_	_	_	_
 148-2	PKP115	148	che	che	linguistic	none	_	_	_	_	_	_
-148-3	PKP115	148	guidava,	guidava	linguistic	none	Intonation=weakly_rising	End=241.27	_	_	_	_
+148-3	PKP115	148	guidava,	guidava	linguistic	none	Intonation=WeaklyRising	End=241.27	_	_	_	_
 149-0	PKP116	149	non	non	linguistic	none	_	Begin=241.845	_	_	_	_
 149-1	PKP116	149	lo	lo	linguistic	none	_	_	_	_	_	_
 149-2	PKP116	149	bevev[a]	beveva	linguistic	none	_	End=242.545	_	_	_	5-6(18)
@@ -626,7 +626,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 159-3	PKP115	159	po'	po'	linguistic	none	_	_	_	_	_	_
 159-4	PKP115	159	che	che	linguistic	none	_	_	_	_	_	_
 159-5	PKP115	159	hai	hai	linguistic	none	_	_	_	_	_	_
-159-6	PKP115	159	bevuto,	bevuto	linguistic	none	Intonation=weakly_rising	End=256.255	_	_	_	_
+159-6	PKP115	159	bevuto,	bevuto	linguistic	none	Intonation=WeaklyRising	End=256.255	_	_	_	_
 160-0	PKP115	160	ti	ti	linguistic	none	_	Begin=257.579	_	_	_	_
 160-1	PKP115	160	sale	sale	linguistic	none	_	_	_	_	_	_
 160-2	PKP115	160	così	così	linguistic	none	_	_	_	_	_	_
@@ -810,7 +810,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 191-1	PKP115	191	la	la	linguistic	none	_	_	_	_	_	_
 191-2	PKP115	191	mamma	mamma	linguistic	none	_	_	_	_	_	_
 191-3	PKP115	191	di	di	linguistic	none	_	_	_	_	_	_
-191-4	PKP115	191	sara,	sara	linguistic	none	Intonation=weakly_rising	End=310.948	_	_	_	_
+191-4	PKP115	191	sara,	sara	linguistic	none	Intonation=WeaklyRising	End=310.948	_	_	_	_
 192-0	PKP116	192	mh	mh	linguistic	none	_	Begin=311.185|End=311.42	_	_	_	_
 193-0	PKP115	193	io:	io	linguistic	none	_	Begin=313.338|End=313.657	1x1	_	_	_
 194-0	PKP115	194	ma	ma	linguistic	none	_	Begin=315.197	_	_	_	_
@@ -2848,7 +2848,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 743-4	PKP115	743	ha	ha	linguistic	none	_	_	_	_	_	_
 743-5	PKP115	743	regalato	regalato	linguistic	none	_	_	_	_	_	_
 743-6	PKP115	743	i	i	linguistic	none	_	_	_	_	_	_
-743-7	PKP115	743	soldi,	soldi	linguistic	none	Intonation=weakly_rising	End=987.694	_	_	_	_
+743-7	PKP115	743	soldi,	soldi	linguistic	none	Intonation=WeaklyRising	End=987.694	_	_	_	_
 744-0	PKP115	744	un'	un'	linguistic	none	SpaceAfter=No	Begin=988.259	_	_	_	_
 744-1	PKP115	744	altra	altra	linguistic	none	_	_	_	_	_	_
 744-2	PKP115	744	sua	sua	linguistic	none	_	_	_	_	_	_

@@ -634,8 +634,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 111-6	PKP058	111	me	me	linguistic	none	_	_	_	_	_	_
 111-7	PKP058	111	piace	piace	linguistic	none	_	_	_	_	_	_
 111-8	PKP058	111	la	la	linguistic	none	_	_	_	_	_	_
-111-9	PKP058	111	verdura,	verdura	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-111-10	PKP058	111	agnello,	agnello	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+111-9	PKP058	111	verdura,	verdura	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+111-10	PKP058	111	agnello,	agnello	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 111-11	PKP058	111	pollo	pollo	linguistic	none	_	End=218.12	_	_	_	_
 112-0	PKP058	112	gamberi	gamberi	linguistic	none	_	Begin=218.22	_	_	_	_
 112-1	PKP058	112	eviterei	eviterei	linguistic	none	_	_	_	_	_	_
@@ -765,7 +765,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 145-2	PKP057	145	lenti]cchie	lenticchie	linguistic	none	_	End=263.405	_	_	_	0-5(41)
 146-0	PKP058	146	((ride))	((ride))	nonverbalbehavior	none	_	Begin=263.631|End=264.271	_	_	_	_
 147-0	PKP057	147	le	le	linguistic	none	_	Begin=265.478	_	_	_	_
-147-1	PKP057	147	len[tic]chie,	lenticchie	linguistic	none	Intonation=weakly_rising	End=266.356	_	_	_	3-6(42)
+147-1	PKP057	147	len[tic]chie,	lenticchie	linguistic	none	Intonation=WeaklyRising	End=266.356	_	_	_	3-6(42)
 148-0	PKP058	148	[e]	e	linguistic	none	_	Begin=265.696|End=266.024	_	_	_	0-1(42)
 149-0	PKP058	149	e	e	linguistic	none	_	Begin=267.443	_	_	_	_
 149-1	PKP058	149	i	i	linguistic	none	_	_	_	_	_	_
@@ -775,11 +775,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 150-2	PKP057	150	le	le	linguistic	none	_	_	_	_	_	_
 150-3	PKP057	150	cime	cime	linguistic	none	_	_	_	_	_	_
 150-4	PKP057	150	di	di	linguistic	none	_	_	_	_	_	_
-150-5	PKP057	150	rapa,	rapa	linguistic	none	Intonation=weakly_rising	End=271.0	_	_	_	_
+150-5	PKP057	150	rapa,	rapa	linguistic	none	Intonation=WeaklyRising	End=271.0	_	_	_	_
 151-0	PKP058	151	exa[ctly]	exactly	linguistic	none	_	Begin=271.328|End=271.83	_	_	_	3-7(43)
 152-0	PKP059	152	[(saa]d)	saad	linguistic	none	_	Begin=271.595|End=272.09	_	_	0-4(0)	0-3(43)
 153-0	PKP057	153	il	il	linguistic	none	_	Begin=272.795	_	_	_	_
-153-1	PKP057	153	pane,	pane	linguistic	none	Intonation=weakly_rising	End=273.4	_	_	_	_
+153-1	PKP057	153	pane,	pane	linguistic	none	Intonation=WeaklyRising	End=273.4	_	_	_	_
 154-0	PKP058	154	il	il	linguistic	none	_	Begin=273.99	_	_	_	_
 154-1	PKP058	154	pane.	pane	linguistic	none	Intonation=Falling	End=274.51	_	_	_	_
 155-0	PKP058	155	>quello	quello	linguistic	none	_	Begin=275.05	_	Fast=0-6	_	_
@@ -1063,7 +1063,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 213-2	PKP058	213	quello	quello	linguistic	none	_	_	_	_	_	_
 213-3	PKP058	213	chilli	chilli	linguistic	none	_	End=368.72	_	_	_	_
 214-0	PKP059	214	pollo	pollo	linguistic	none	_	Begin=368.867	_	_	_	_
-214-1	PKP059	214	chilli,	chilli	linguistic	none	Intonation=weakly_rising	End=369.58	_	_	_	_
+214-1	PKP059	214	chilli,	chilli	linguistic	none	Intonation=WeaklyRising	End=369.58	_	_	_	_
 215-0	???	215	il	il	linguistic	none	_	Begin=369.9	_	_	_	_
 215-1	???	215	pollo	pollo	linguistic	none	_	_	_	_	_	_
 215-2	???	215	tandoori	tandoori	linguistic	none	_	_	_	_	_	_
@@ -1092,7 +1092,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 225-0	PKP058	225	[le	le	linguistic	none	_	Begin=383.526	_	_	_	0-2(54)
 225-1	PKP058	225	len]ticchie	lenticchie	linguistic	none	_	End=384.367	_	_	_	0-3(54)
 226-0	PKP057	226	le	le	linguistic	none	_	Begin=384.324	_	_	_	_
-226-1	PKP057	226	lenticchie,	lenticchie	linguistic	none	Intonation=weakly_rising	End=384.79	_	_	_	_
+226-1	PKP057	226	lenticchie,	lenticchie	linguistic	none	Intonation=WeaklyRising	End=384.79	_	_	_	_
 227-0	???	227	gialle?	gialle	linguistic	none	Intonation=Rising	Begin=385.34	_	_	_	_
 227-1	???	227	(kar[kadè)]	karkadè	linguistic	none	_	End=386.52	_	_	0-7(0)	3-7(56)
 228-0	PKP058	228	[sì]	sì	linguistic	none	_	Begin=386.198|End=386.417	_	_	_	0-2(56)
@@ -1862,7 +1862,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 380-3	PKP059	380	bocca	bocca	linguistic	none	_	_	_	_	_	_
 380-4	PKP059	380	quella	quella	linguistic	none	_	End=651.455	_	_	_	_
 381-0	PKP058	381	quella	quella	linguistic	none	_	Begin=651.625	_	_	_	_
-381-1	PKP058	381	iniziale,	iniziale	linguistic	none	Intonation=weakly_rising	End=652.273	_	_	_	_
+381-1	PKP058	381	iniziale,	iniziale	linguistic	none	Intonation=WeaklyRising	End=652.273	_	_	_	_
 382-0	PKP058	382	mi	mi	linguistic	none	_	Begin=652.853	_	_	_	_
 382-1	PKP058	382	va	va	linguistic	none	_	_	_	_	_	_
 382-2	PKP058	382	bene	bene	linguistic	none	_	End=653.353	_	_	_	_
@@ -3729,7 +3729,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 761-2	PKP058	761	generico	generico	linguistic	none	_	_	_	_	_	_
 761-3	PKP058	761	di	di	linguistic	none	_	_	_	_	_	_
 761-4	PKP058	761	così:	così	linguistic	none	_	End=1451.469	3x1	_	_	_
-762-0	PKP057	762	fagiolini,	fagiolini	linguistic	none	Intonation=weakly_rising	Begin=1452.266|End=1452.9	_	_	_	_
+762-0	PKP057	762	fagiolini,	fagiolini	linguistic	none	Intonation=WeaklyRising	Begin=1452.266|End=1452.9	_	_	_	_
 763-0	PKP058	763	si	si	linguistic	none	_	Begin=1452.927	_	_	_	_
 763-1	PKP058	763	poteva	poteva	linguistic	none	_	_	_	_	_	_
 763-2	PKP058	763	scrivere	scrivere	linguistic	none	_	_	_	_	_	_
@@ -6366,8 +6366,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1200-4	PKP059	1200	mangio	mangio	linguistic	none	_	_	_	_	_	_
 1200-5	PKP059	1200	s~	s~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 1200-6	PKP059	1200	mangio	mangio	linguistic	none	_	_	_	_	_	_
-1200-7	PKP059	1200	indiano,	indiano	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-1200-8	PKP059	1200	messicano,	messicano	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1200-7	PKP059	1200	indiano,	indiano	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+1200-8	PKP059	1200	messicano,	messicano	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1200-9	PKP059	1200	giapponese	giapponese	linguistic	none	_	End=2408.035	_	_	_	_
 1201-0	PKP058	1201	>quando	quando	linguistic	none	_	Begin=2408.868	_	Fast=0-6	_	_
 1201-1	PKP058	1201	vai	vai	linguistic	none	_	_	_	Fast=0-3	_	_
@@ -6448,7 +6448,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1212-0	PKP059	1212	mh	mh	linguistic	none	_	Begin=2437.952|End=2438.178	_	_	_	_
 1213-0	PKP057	1213	e:	e	linguistic	none	_	Begin=2438.368	0x1	_	_	_
 1213-1	PKP057	1213	e	e	linguistic	none	_	_	_	_	_	_
-1213-2	PKP057	1213	starnutisce,	starnutisce	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1213-2	PKP057	1213	starnutisce,	starnutisce	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1213-3	PKP057	1213	tossisce	tossisce	linguistic	none	_	_	_	_	_	_
 1213-4	PKP057	1213	>cioè	cioè	linguistic	none	_	_	_	Fast=0-4	_	_
 1213-5	PKP057	1213	secondo	secondo	linguistic	none	_	_	_	Fast=0-7	_	_
@@ -8738,8 +8738,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1604-1	PKP058	1604	perché	perché	linguistic	none	_	_	_	_	_	_
 1604-2	PKP058	1604	lei	lei	linguistic	none	_	_	_	_	_	_
 1604-3	PKP058	1604	mangerebbe	mangerebbe	linguistic	none	_	_	_	_	_	_
-1604-4	PKP058	1604	carne,	carne	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
-1604-5	PKP058	1604	fritto,	fritto	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1604-4	PKP058	1604	carne,	carne	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
+1604-5	PKP058	1604	fritto,	fritto	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1604-6	PKP058	1604	scarpasotti	scarpasotti	linguistic	none	_	_	_	_	_	_
 1604-7	PKP058	1604	e	e	linguistic	none	_	_	_	_	_	_
 1604-8	PKP058	1604	cappel[etti	cappeletti	linguistic	none	_	_	_	_	_	6-10(308)

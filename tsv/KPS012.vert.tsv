@@ -318,7 +318,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 50-1	PKP050	50	mangiato	mangiato	linguistic	none	_	_	_	_	_	_
 50-2	PKP050	50	poco	poco	linguistic	none	_	_	_	_	_	_
 50-3	PKP050	50	ieri	ieri	linguistic	none	_	End=123.8	_	_	_	_
-51-0	PKP050	51	NO,	no	linguistic	none	Intonation=weakly_rising|Volume=High	Begin=125.566|End=126.046	_	_	_	_
+51-0	PKP050	51	NO,	no	linguistic	none	Intonation=WeaklyRising|Volume=High	Begin=125.566|End=126.046	_	_	_	_
 52-0	PKP049	52	nei	nei	linguistic	none	_	Begin=128.333	_	_	_	_
 52-1	PKP049	52	carciofi	carciofi	linguistic	none	_	_	_	_	_	_
 52-2	PKP049	52	ripieni	ripieni	linguistic	none	_	_	_	_	_	_
@@ -534,7 +534,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 79-4	PKP051	79	aveva	aveva	linguistic	none	_	_	_	_	_	_
 79-5	PKP051	79	fatto	fatto	linguistic	none	_	_	_	_	_	_
 79-6	PKP051	79	la	la	linguistic	none	_	_	_	_	_	_
-79-7	PKP051	79	nonna,	nonna	linguistic	none	Intonation=weakly_rising	End=213.506	_	_	_	_
+79-7	PKP051	79	nonna,	nonna	linguistic	none	Intonation=WeaklyRising	End=213.506	_	_	_	_
 80-0	PKP049	80	col	col	linguistic	none	_	Begin=213.506	_	_	_	_
 80-1	PKP049	80	sugo	sugo	linguistic	none	_	_	_	_	_	_
 80-2	PKP049	80	e	e	linguistic	none	_	_	_	_	_	_

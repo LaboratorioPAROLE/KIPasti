@@ -445,7 +445,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 70-2	PKP040	70	ha	ha	linguistic	none	_	_	_	_	_	_
 70-3	PKP040	70	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 70-4	PKP040	70	esame	esame	linguistic	none	_	_	_	_	_	_
-70-5	PKP040	70	marco,	marco	linguistic	none	Intonation=weakly_rising	End=309.91	_	_	_	_
+70-5	PKP040	70	marco,	marco	linguistic	none	Intonation=WeaklyRising	End=309.91	_	_	_	_
 71-0	PKP041	71	il	il	linguistic	none	_	Begin=310.76	_	_	_	_
 71-1	PKP041	71	dieci	dieci	linguistic	none	_	End=311.58	_	_	_	_
 72-0	PKP040	72	quindi	quindi	linguistic	none	_	Begin=312.59	_	_	_	_

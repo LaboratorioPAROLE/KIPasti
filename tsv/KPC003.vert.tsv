@@ -1633,7 +1633,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 262-2	PKP024	262	per<	per	linguistic	none	_	_	_	Fast=0-3	_	_
 262-3	PKP024	262	m:h	mh	linguistic	none	_	_	0x1	_	_	_
 262-4	PKP024	262	la	la	linguistic	none	_	_	_	_	_	_
-262-5	PKP024	262	glicemia,	glicemia	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+262-5	PKP024	262	glicemia,	glicemia	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 262-6	PKP024	262	il	il	linguistic	none	_	_	_	_	_	_
 262-7	PKP024	262	diabete	diabete	linguistic	none	_	End=860.96	_	_	_	_
 263-0	PKP093	263	eh	eh	linguistic	none	_	Begin=861.23	_	_	_	_
@@ -2311,9 +2311,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 357-1	PKP093	357	ma:	ma	linguistic	none	_	_	1x1	_	_	_
 357-2	PKP093	357	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 357-3	PKP093	357	ho	ho	linguistic	none	_	_	_	_	_	_
-357-4	PKP093	357	cucinato,	cucinato	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+357-4	PKP093	357	cucinato,	cucinato	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 357-5	PKP093	357	ho	ho	linguistic	none	_	_	_	_	_	_
-357-6	PKP093	357	rigovernato,	rigovernato	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+357-6	PKP093	357	rigovernato,	rigovernato	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 357-7	PKP093	357	ho	ho	linguistic	none	_	_	_	_	_	_
 357-8	PKP093	357	fatto	fatto	linguistic	none	_	_	_	_	_	_
 357-9	PKP093	357	tutto	tutto	linguistic	none	_	_	_	_	_	_
@@ -3551,7 +3551,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 542-3	PKP024	542	aggiornamento)	aggiornamento	linguistic	none	_	_	_	_	0-13(0)	_
 542-4	PKP024	542	canottiera	canottiera	linguistic	none	_	_	_	_	_	_
 542-5	PKP024	542	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-542-6	PKP024	542	maglietta,	maglietta	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+542-6	PKP024	542	maglietta,	maglietta	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 542-7	PKP024	542	maglietta	maglietta	linguistic	none	_	_	_	_	_	_
 542-8	PKP024	542	a	a	linguistic	none	_	_	_	_	_	_
 542-9	PKP024	542	maniche	maniche	linguistic	none	_	_	_	_	_	_

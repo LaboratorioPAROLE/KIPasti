@@ -2381,7 +2381,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 478-14	PKP113	478	altri	altri	linguistic	none	_	End=780.089	_	_	_	_
 479-0	PKP113	479	era	era	linguistic	none	_	Begin=780.266	_	_	_	_
 479-1	PKP113	479	brutto	brutto	linguistic	none	_	_	_	_	_	_
-479-2	PKP113	479	tempo,	tempo	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+479-2	PKP113	479	tempo,	tempo	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 479-3	PKP113	479	pioveva	pioveva	linguistic	none	_	End=781.569	_	_	_	_
 480-0	PKP113	480	han	han	linguistic	none	_	Begin=781.893	_	_	_	_
 480-1	PKP113	480	trovato	trovato	linguistic	none	_	_	_	_	_	_
@@ -4371,8 +4371,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 944-0	PKP113	944	[perché	perché	linguistic	none	_	Begin=1519.837	_	_	_	0-6(193)
 944-1	PKP113	944	ho	ho	linguistic	none	_	_	_	_	_	0-2(193)
 944-2	PKP113	944	saltato	saltato	linguistic	none	_	_	_	_	_	0-7(193)
-944-3	PKP113	944	marz]o,	marzo	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-4(193)
-944-4	PKP113	944	aprile,	aprile	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+944-3	PKP113	944	marz]o,	marzo	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-4(193)
+944-4	PKP113	944	aprile,	aprile	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 944-5	PKP113	944	maggio	maggio	linguistic	none	_	_	_	_	_	_
 944-6	PKP113	944	per	per	linguistic	none	_	_	_	_	_	_
 944-7	PKP113	944	il	il	linguistic	none	_	_	_	_	_	_
@@ -4384,7 +4384,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 946-0	PKP113	946	ce	ce	linguistic	none	_	Begin=1524.068	_	_	_	_
 946-1	PKP113	946	li	li	linguistic	none	_	_	_	_	_	_
 946-2	PKP113	946	ho:	ho	linguistic	none	_	_	1x1	_	_	_
-946-3	PKP113	946	martedì,	martedì	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+946-3	PKP113	946	martedì,	martedì	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 946-4	PKP113	946	mercoledì	mercoledì	linguistic	none	_	_	_	_	_	_
 946-5	PKP113	946	e	e	linguistic	none	_	_	_	_	_	_
 946-6	PKP113	946	giovedì	giovedì	linguistic	none	_	End=1525.835	_	_	_	_
@@ -4606,7 +4606,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 996-0	PKP111	996	se	se	linguistic	none	_	Begin=1601.814	_	_	_	_
 996-1	PKP111	996	fai	fai	linguistic	none	_	_	_	_	_	_
 996-2	PKP111	996	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-996-3	PKP111	996	martedì,	martedì	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+996-3	PKP111	996	martedì,	martedì	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 996-4	PKP111	996	mercoledì	mercoledì	linguistic	none	_	_	_	_	_	_
 996-5	PKP111	996	e	e	linguistic	none	_	_	_	_	_	_
 996-6	PKP111	996	giovedì	giovedì	linguistic	none	_	End=1603.736	_	_	_	_
@@ -5478,7 +5478,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1179-2	PKP107	1179	so	so	linguistic	none	_	_	_	_	_	_
 1179-3	PKP107	1179	albero	albero	linguistic	none	_	End=1859.894	_	_	_	_
 1180-0	PKP107	1180	e:	e	linguistic	none	_	Begin=1860.465	0x1	_	_	_
-1180-1	PKP107	1180	albero,	albero	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1180-1	PKP107	1180	albero,	albero	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1180-2	PKP107	1180	albero	albero	linguistic	none	_	_	_	_	_	_
 1180-3	PKP107	1180	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1180-4	PKP107	1180	a	a	linguistic	none	_	_	_	_	_	_
@@ -5517,10 +5517,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1186-4	PKP107	1186	parola	parola	linguistic	none	_	End=1874.216	_	_	_	_
 1187-0	PKP107	1187	e	e	linguistic	none	_	Begin=1874.223	_	_	_	_
 1187-1	PKP107	1187	di[ci	dici	linguistic	none	_	_	_	_	_	2-4(243)
-1187-2	PKP107	1187	foglie],	foglie	linguistic	none	Intonation=weakly_rising	_	_	_	_	0-6(243)
+1187-2	PKP107	1187	foglie],	foglie	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-6(243)
 1187-3	PKP107	1187	lei	lei	linguistic	none	_	_	_	_	_	_
 1187-4	PKP107	1187	dice	dice	linguistic	none	_	_	_	_	_	_
-1187-5	PKP107	1187	verde,	verde	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1187-5	PKP107	1187	verde,	verde	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1187-6	PKP107	1187	lei	lei	linguistic	none	_	_	_	_	_	_
 1187-7	PKP107	1187	dice	dice	linguistic	none	_	_	_	_	_	_
 1187-8	PKP107	1187	tronco	tronco	linguistic	none	_	End=1877.532	_	_	_	_
@@ -5667,7 +5667,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1219-0	PKP107	1219	se	se	linguistic	none	_	Begin=1914.76	_	_	_	_
 1219-1	PKP107	1219	loro	loro	linguistic	none	_	_	_	_	_	_
 1219-2	PKP107	1219	dicono	dicono	linguistic	none	_	_	_	_	_	_
-1219-3	PKP107	1219	foglie,	foglie	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1219-3	PKP107	1219	foglie,	foglie	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1219-4	PKP107	1219	v[erde]	verde	linguistic	none	_	_	_	_	_	1-5(250)
 1219-5	PKP107	1219	e	e	linguistic	none	_	_	_	_	_	_
 1219-6	PKP107	1219	tro[nco]	tronco	linguistic	none	_	End=1917.383	_	_	_	3-6(251)
@@ -6506,7 +6506,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1407-1	PKP113	1407	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 1407-2	PKP113	1407	è	è	linguistic	none	_	_	_	_	_	_
 1407-3	PKP113	1407	a	a	linguistic	none	_	_	_	_	_	_
-1407-4	PKP113	1407	torino,	torino	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+1407-4	PKP113	1407	torino,	torino	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1407-5	PKP113	1407	roma	roma	linguistic	none	_	End=2199.015	_	_	_	_
 1408-0	PKP113	1408	e	e	linguistic	none	_	Begin=2199.71	_	_	_	_
 1408-1	PKP113	1408	[l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(293)

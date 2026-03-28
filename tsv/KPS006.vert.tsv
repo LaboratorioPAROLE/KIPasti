@@ -2488,11 +2488,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 627-2	PKP004	627	che	che	linguistic	none	_	_	_	_	_	_
 627-3	PKP004	627	mangia	mangia	linguistic	none	_	_	_	_	_	_
 627-4	PKP004	627	i	i	linguistic	none	_	_	_	_	_	_
-627-5	PKP004	627	piselli,	piselli	linguistic	none	Intonation=weakly_rising	End=1084.552	_	_	_	_
+627-5	PKP004	627	piselli,	piselli	linguistic	none	Intonation=WeaklyRising	End=1084.552	_	_	_	_
 628-0	PKP004	628	le	le	linguistic	none	_	Begin=1084.6	_	_	_	_
-628-1	PKP004	628	lenti:cchie,	lenticchie	linguistic	none	Intonation=weakly_rising	End=1085.354	4x1	_	_	_
+628-1	PKP004	628	lenti:cchie,	lenticchie	linguistic	none	Intonation=WeaklyRising	End=1085.354	4x1	_	_	_
 629-0	PKP004	629	il	il	linguistic	none	_	Begin=1085.411	_	_	_	_
-629-1	PKP004	629	bro:do,	brodo	linguistic	none	Intonation=weakly_rising	End=1086.008	2x1	_	_	_
+629-1	PKP004	629	bro:do,	brodo	linguistic	none	Intonation=WeaklyRising	End=1086.008	2x1	_	_	_
 630-0	PKP004	630	e	e	linguistic	none	_	Begin=1086.056	_	_	_	_
 630-1	PKP004	630	la	la	linguistic	none	_	_	_	_	_	_
 630-2	PKP004	630	pasta	pasta	linguistic	none	_	_	_	_	_	_
@@ -2661,8 +2661,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 679-6	PKP006	679	[mai]	mai	linguistic	none	_	End=1207.725	_	_	_	0-3(137)
 680-0	PKP004	680	[tra]etta	traetta	linguistic	none	_	Begin=1207.552|End=1208.125	_	_	_	0-3(137)
 681-0	PKP005	681	traetta	traetta	linguistic	none	_	Begin=1208.154|End=1208.673	_	_	_	_
-682-0	PKP001	682	traetta,	traetta	linguistic	none	Intonation=weakly_rising	Begin=1208.854|End=1209.653	_	_	_	_
-683-0	PKP001	683	rossini,	rossini	linguistic	none	Intonation=weakly_rising	Begin=1209.783|End=1210.612	_	_	_	_
+682-0	PKP001	682	traetta,	traetta	linguistic	none	Intonation=WeaklyRising	Begin=1208.854|End=1209.653	_	_	_	_
+683-0	PKP001	683	rossini,	rossini	linguistic	none	Intonation=WeaklyRising	Begin=1209.783|End=1210.612	_	_	_	_
 684-0	PKP001	684	e	e	linguistic	none	_	Begin=1210.646	_	_	_	_
 684-1	PKP001	684	questo	questo	linguistic	none	_	_	_	_	_	_
 684-2	PKP001	684	si	si	linguistic	none	_	_	_	_	_	_

@@ -51,7 +51,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 11-2	PKP034	11	xx	x	unknown	none	_	End=16.413	_	_	_	_
 12-0	PKP034	12	la	la	linguistic	none	_	Begin=21.78	_	_	_	_
 12-1	PKP034	12	frittata	frittata	linguistic	none	_	_	_	_	_	_
-12-2	PKP034	12	normale,	normale	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+12-2	PKP034	12	normale,	normale	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 12-3	PKP034	12	come	come	linguistic	none	_	_	_	_	_	_
 12-4	PKP034	12	la	la	linguistic	none	_	_	_	_	_	_
 12-5	PKP034	12	vuoi	vuoi	linguistic	none	_	_	_	_	_	_
@@ -2541,7 +2541,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 529-10	PKP034	529	si	si	linguistic	none	_	_	_	_	_	_
 529-11	PKP034	529	trovano	trovano	linguistic	none	_	_	_	_	_	_
 529-12	PKP034	529	le	le	linguistic	none	_	_	_	_	_	_
-529-13	PKP034	529	lenticchie,	lenticchie	linguistic	none	Intonation=weakly_rising	_	_	_	_	_
+529-13	PKP034	529	lenticchie,	lenticchie	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 529-14	PKP034	529	i	i	linguistic	none	_	_	_	_	_	_
 529-15	PKP034	529	ceci	ceci	linguistic	none	_	_	_	_	_	_
 529-16	PKP034	529	no?	no	linguistic	none	Intonation=Rising	_	_	_	_	_
