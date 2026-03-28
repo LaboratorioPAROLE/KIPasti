@@ -12,7 +12,7 @@ authors:
 - family-names: "Zucchini"
   given-names: "Eleonora"
   orcid: "https://orcid.org/0000-0001-6497-7310"
-version: 1.0.0
+version: 1.1.2
 identifiers:
   - description: "The concept DOI of the work"
     type: doi
